@@ -1,1098 +1,197 @@
-10:55:50:563 (00017784) > [Startup] Ghost of Tsushima DIRECTOR'S CUT
-10:55:50:563 (00017784) > [Startup] ==============
-10:55:50:563 (00017784) > [Startup] 
-10:55:50:563 (00017784) > [Startup] Build: v1053.7.0809.1937
-10:55:50:563 (00017784) > [Startup] Windows 10.0 (build 19045.6466)
-10:55:50:563 (00017784) > [Startup] Distribution platform: Steam
-10:55:50:563 (00017784) > [Startup] Game directory: C:\Users\<username>\Documents\Ghost of Tsushima DIRECTOR'S CUT\
-10:55:50:563 (00017784) > [Startup] Working directory: D:\Crack\[tamhongame.com]_GOTDC Viet Hoa\Ghost of Tsushima DIRECTOR'S CUT Viet Hoa
-10:55:50:563 (00017784) > [Startup] Run ID: AFA0-D9B7-5185-01DD
-10:55:50:563 (00017784) > [Startup] 
-10:55:50:563 (00017784) > [Startup] Memory statistics:
-10:55:50:563 (00017784) > [Startup]   Total RAM = 15.9 GB (16306 MB)
-10:55:50:563 (00017784) > [Startup]   Avail RAM = 9.7 GB (9888 MB)
-10:55:50:563 (00017784) > [Startup]   Total virtual memory = 131072.0 GB (134217727 MB)
-10:55:50:563 (00017784) > [Startup]   Avail virtual memory = 131066.7 GB (134212342 MB)
-10:55:50:563 (00017784) > [Startup]   Total page file = 24.4 GB (25010 MB)
-10:55:50:563 (00017784) > [Startup]   Avail page file = 17.3 GB (17697 MB)
-10:55:50:563 (00017784) > [Startup] 
-10:55:50:563 (00017784) > [Steam] Initializing.
-10:55:50:563 (00017784) > [Steam] Successfully initialized.
-10:55:50:563 (00017784) > [Steam] Currently connected to 0 remote sessions
-10:55:50:563 (00017784) > [NxSteam] End previously existing file batch, did the game quit abnormally while saving?
-10:55:50:563 (00017784) > [Steam] Steam beta branch: unknown
-10:55:51:166 (00017784) > [NxApp] PreInit
-10:55:51:166 (00017784) > [NxProcessorInfo] Processor info:
-10:55:51:166 (00017784) > [NxProcessorInfo] 	Description:             	Intel(R) Core(TM) i5-10400F CPU @ 2.90GHz
-10:55:51:166 (00017784) > [NxProcessorInfo] 	NumaNode Count:    	0
-10:55:51:166 (00017784) > [NxProcessorInfo] 	Group Count:       	1
-10:55:51:166 (00017784) > [NxProcessorInfo] 	Physical Core:     	6
-10:55:51:166 (00017784) > [NxProcessorInfo] 	Logical  Core:     	12
-10:55:51:166 (00017784) > [NxProcessorInfo] 	Distinct L3 Cache: 	1
-10:55:51:166 (00017784) > [NxProcessorInfo] 	Family:            	6
-10:55:51:166 (00017784) > [NxProcessorInfo] 	Model:             	165
-10:55:51:166 (00017784) > [NxProcessorInfo] 	Name:              	Intel(R) Core(TM) i5-10400F CPU @ 2.90GHz
-10:55:51:166 (00017784) > [NxProcessorInfo] 	AVX:               	1
-10:55:51:166 (00017784) > [NxProcessorInfo] 	F16C:              	1
-10:55:51:166 (00017784) > [NxProcessorInfo] 	AVX2:              	1
-10:55:51:166 (00017784) > [NxProcessorInfo] 	NormalAffinity(auto)
-10:55:51:166 (00017784) > [SwapChain] Initializing...
-10:55:51:166 (00017784) > [DXGI] Initializing...
-10:55:54:389 (00017784) > [NxApp] Streamline was successfully initialized.
-10:55:54:389 (00017784) > [DXGI] Successfully initialized.
-10:55:54:389 (00017784) > [Render] Enumerating adapters:
-10:55:54:389 (00017784) > [Render] 	Adapter 0:
-10:55:54:389 (00017784) > [Monitor] 		Description             : NVIDIA GeForce RTX 3050
-10:55:54:389 (00017784) > [Monitor] 		Vendor                  : nVidia (10de)
-10:55:54:389 (00017784) > [Monitor] 		Device                  : 2507
-10:55:54:389 (00017784) > [Monitor] 		Sub system              : 250710de
-10:55:54:389 (00017784) > [Monitor] 		Revision                : 161
-10:55:54:389 (00017784) > [Monitor] 		Dedicated Video Memory  : 8042 MB
-10:55:54:389 (00017784) > [Monitor] 		Dedicated System Memory : 0000 MB
-10:55:54:389 (00017784) > [Monitor] 		Shared System Memory    : 8153 MB
-10:55:54:389 (00017784) > [Monitor] 
-10:55:54:389 (00017784) > [Render] Loading NVAPI...
-10:55:54:390 (00017784) > [Render] Done loading NVAPI
-10:55:54:390 (00017784) > [Render] 	Adapter 1:
-10:55:54:390 (00017784) > [Monitor] 		Description             : Microsoft Basic Render Driver
-10:55:54:390 (00017784) > [Monitor] 		Vendor                  : Unknown (1414)
-10:55:54:390 (00017784) > [Monitor] 		Device                  : 8c
-10:55:54:390 (00017784) > [Monitor] 		Sub system              : 0
-10:55:54:390 (00017784) > [Monitor] 		Revision                : 0
-10:55:54:390 (00017784) > [Monitor] 		Dedicated Video Memory  : 0000 MB
-10:55:54:390 (00017784) > [Monitor] 		Dedicated System Memory : 0000 MB
-10:55:54:390 (00017784) > [Monitor] 		Shared System Memory    : 8153 MB
-10:55:54:390 (00017784) > [Monitor] 
-10:55:54:390 (00017784) > [Render] Enumerating monitors:
-10:55:54:390 (00017784) > [Render] 	Monitor 0: handle = 0000000000010001, aspect = 1.78, rounded aspect = 1.78
-10:55:54:390 (00017784) > [Render] 
-10:55:54:392 (00017784) > [Render] 	Monitor handle = 0000000000010001, pixel aspect ratio = 1.00
-10:55:54:392 (00017784) > [SwapChain] Successfully initialized.
-10:55:54:392 (00017784) > [Render] Enumerating Display Modes:
-10:55:54:393 (00017784) > [Render] Querying NVAPI for Surround modes
-10:55:54:460 (00017784) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() - no surround modes detected
-10:55:54:460 (00017784) > [Render] 	Monitor '1 (NVIDIA GeForce RTX 3050(1))' (0000000000010001): rect(0 2560 0 1440)
-10:55:54:460 (00017784) > [Render] 		- Mode  0 :  800 x  600 @  75 Hz, stereo = 0, hdr = 0 exclusive = 0
-10:55:54:460 (00017784) > [Render] 		- Mode  1 :  800 x  600 @  56 Hz, stereo = 0, hdr = 0 exclusive = 0
-10:55:54:460 (00017784) > [Render] 		- Mode  2 :  800 x  600 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
-10:55:54:460 (00017784) > [Render] 		- Mode  3 :  800 x  600 @  72 Hz, stereo = 0, hdr = 0 exclusive = 0
-10:55:54:460 (00017784) > [Render] 		- Mode  4 : 1024 x  768 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
-10:55:54:460 (00017784) > [Render] 		- Mode  5 : 1024 x  768 @  70 Hz, stereo = 0, hdr = 0 exclusive = 0
-10:55:54:460 (00017784) > [Render] 		- Mode  6 : 1024 x  768 @  75 Hz, stereo = 0, hdr = 0 exclusive = 0
-10:55:54:460 (00017784) > [Render] 		- Mode  7 : 1152 x  864 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
-10:55:54:460 (00017784) > [Render] 		- Mode  8 : 1152 x  864 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
-10:55:54:460 (00017784) > [Render] 		- Mode  9 : 1176 x  664 @  50 Hz, stereo = 0, hdr = 0 exclusive = 0
-10:55:54:460 (00017784) > [Render] 		- Mode 10 : 1176 x  664 @  50 Hz, stereo = 0, hdr = 0 exclusive = 0
-10:55:54:460 (00017784) > [Render] 		- Mode 11 : 1176 x  664 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
-10:55:54:460 (00017784) > [Render] 		- Mode 12 : 1176 x  664 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
-10:55:54:460 (00017784) > [Render] 		- Mode 13 : 1176 x  664 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
-10:55:54:460 (00017784) > [Render] 		- Mode 14 : 1176 x  664 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
-10:55:54:460 (00017784) > [Render] 		- Mode 15 : 1280 x  720 @  50 Hz, stereo = 0, hdr = 0 exclusive = 0
-10:55:54:460 (00017784) > [Render] 		- Mode 16 : 1280 x  720 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
-10:55:54:460 (00017784) > [Render] 		- Mode 17 : 1280 x  720 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
-10:55:54:460 (00017784) > [Render] 		- Mode 18 : 1280 x  768 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
-10:55:54:460 (00017784) > [Render] 		- Mode 19 : 1280 x  768 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
-10:55:54:460 (00017784) > [Render] 		- Mode 20 : 1280 x  800 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
-10:55:54:460 (00017784) > [Render] 		- Mode 21 : 1280 x  800 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
-10:55:54:460 (00017784) > [Render] 		- Mode 22 : 1280 x  960 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
-10:55:54:460 (00017784) > [Render] 		- Mode 23 : 1280 x  960 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
-10:55:54:460 (00017784) > [Render] 		- Mode 24 : 1280 x  960 @  75 Hz, stereo = 0, hdr = 0 exclusive = 0
-10:55:54:460 (00017784) > [Render] 		- Mode 25 : 1280 x  960 @  75 Hz, stereo = 0, hdr = 0 exclusive = 0
-10:55:54:460 (00017784) > [Render] 		- Mode 26 : 1280 x 1024 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
-10:55:54:460 (00017784) > [Render] 		- Mode 27 : 1280 x 1024 @  75 Hz, stereo = 0, hdr = 0 exclusive = 0
-10:55:54:460 (00017784) > [Render] 		- Mode 28 : 1360 x  768 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
-10:55:54:460 (00017784) > [Render] 		- Mode 29 : 1360 x  768 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
-10:55:54:460 (00017784) > [Render] 		- Mode 30 : 1366 x  768 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
-10:55:54:460 (00017784) > [Render] 		- Mode 31 : 1366 x  768 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
-10:55:54:460 (00017784) > [Render] 		- Mode 32 : 1440 x  900 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
-10:55:54:460 (00017784) > [Render] 		- Mode 33 : 1440 x 1080 @  24 Hz, stereo = 0, hdr = 0 exclusive = 0
-10:55:54:460 (00017784) > [Render] 		- Mode 34 : 1440 x 1080 @  24 Hz, stereo = 0, hdr = 0 exclusive = 0
-10:55:54:460 (00017784) > [Render] 		- Mode 35 : 1440 x 1080 @  25 Hz, stereo = 0, hdr = 0 exclusive = 0
-10:55:54:460 (00017784) > [Render] 		- Mode 36 : 1440 x 1080 @  25 Hz, stereo = 0, hdr = 0 exclusive = 0
-10:55:54:460 (00017784) > [Render] 		- Mode 37 : 1440 x 1080 @  30 Hz, stereo = 0, hdr = 0 exclusive = 0
-10:55:54:460 (00017784) > [Render] 		- Mode 38 : 1440 x 1080 @  30 Hz, stereo = 0, hdr = 0 exclusive = 0
-10:55:54:460 (00017784) > [Render] 		- Mode 39 : 1440 x 1080 @  50 Hz, stereo = 0, hdr = 0 exclusive = 0
-10:55:54:460 (00017784) > [Render] 		- Mode 40 : 1440 x 1080 @  50 Hz, stereo = 0, hdr = 0 exclusive = 0
-10:55:54:460 (00017784) > [Render] 		- Mode 41 : 1440 x 1080 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
-10:55:54:460 (00017784) > [Render] 		- Mode 42 : 1440 x 1080 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
-10:55:54:460 (00017784) > [Render] 		- Mode 43 : 1440 x 1080 @  24 Hz, stereo = 0, hdr = 0 exclusive = 0
-10:55:54:460 (00017784) > [Render] 		- Mode 44 : 1440 x 1080 @  24 Hz, stereo = 0, hdr = 0 exclusive = 0
-10:55:54:460 (00017784) > [Render] 		- Mode 45 : 1440 x 1080 @  30 Hz, stereo = 0, hdr = 0 exclusive = 0
-10:55:54:460 (00017784) > [Render] 		- Mode 46 : 1440 x 1080 @  30 Hz, stereo = 0, hdr = 0 exclusive = 0
-10:55:54:460 (00017784) > [Render] 		- Mode 47 : 1440 x 1080 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
-10:55:54:460 (00017784) > [Render] 		- Mode 48 : 1440 x 1080 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
-10:55:54:460 (00017784) > [Render] 		- Mode 49 : 1600 x  900 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
-10:55:54:460 (00017784) > [Render] 		- Mode 50 : 1600 x  900 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
-10:55:54:460 (00017784) > [Render] 		- Mode 51 : 1600 x 1024 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
-10:55:54:460 (00017784) > [Render] 		- Mode 52 : 1600 x 1024 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
-10:55:54:460 (00017784) > [Render] 		- Mode 53 : 1600 x 1200 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
-10:55:54:460 (00017784) > [Render] 		- Mode 54 : 1600 x 1200 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
-10:55:54:460 (00017784) > [Render] 		- Mode 55 : 1680 x 1050 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
-10:55:54:460 (00017784) > [Render] 		- Mode 56 : 1920 x 1080 @  24 Hz, stereo = 0, hdr = 0 exclusive = 0
-10:55:54:460 (00017784) > [Render] 		- Mode 57 : 1920 x 1080 @  25 Hz, stereo = 0, hdr = 0 exclusive = 0
-10:55:54:460 (00017784) > [Render] 		- Mode 58 : 1920 x 1080 @  30 Hz, stereo = 0, hdr = 0 exclusive = 0
-10:55:54:460 (00017784) > [Render] 		- Mode 59 : 1920 x 1080 @  50 Hz, stereo = 0, hdr = 0 exclusive = 0
-10:55:54:460 (00017784) > [Render] 		- Mode 60 : 1920 x 1080 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
-10:55:54:460 (00017784) > [Render] 		- Mode 61 : 1920 x 1080 @  24 Hz, stereo = 0, hdr = 0 exclusive = 0
-10:55:54:460 (00017784) > [Render] 		- Mode 62 : 1920 x 1080 @  30 Hz, stereo = 0, hdr = 0 exclusive = 0
-10:55:54:460 (00017784) > [Render] 		- Mode 63 : 1920 x 1080 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
-10:55:54:460 (00017784) > [Render] 		- Mode 64 : 1920 x 1200 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
-10:55:54:460 (00017784) > [Render] 		- Mode 65 : 1920 x 1440 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
-10:55:54:460 (00017784) > [Render] 		- Mode 66 : 2048 x 1152 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
-10:55:54:460 (00017784) > [Render] 		- Mode 67 : 2560 x 1080 @  24 Hz, stereo = 0, hdr = 0 exclusive = 0
-10:55:54:460 (00017784) > [Render] 		- Mode 68 : 2560 x 1080 @  25 Hz, stereo = 0, hdr = 0 exclusive = 0
-10:55:54:460 (00017784) > [Render] 		- Mode 69 : 2560 x 1080 @  30 Hz, stereo = 0, hdr = 0 exclusive = 0
-10:55:54:460 (00017784) > [Render] 		- Mode 70 : 2560 x 1080 @  50 Hz, stereo = 0, hdr = 0 exclusive = 0
-10:55:54:460 (00017784) > [Render] 		- Mode 71 : 2560 x 1080 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
-10:55:54:460 (00017784) > [Render] 		- Mode 72 : 2560 x 1080 @  24 Hz, stereo = 0, hdr = 0 exclusive = 0
-10:55:54:460 (00017784) > [Render] 		- Mode 73 : 2560 x 1080 @  30 Hz, stereo = 0, hdr = 0 exclusive = 0
-10:55:54:460 (00017784) > [Render] 		- Mode 74 : 2560 x 1080 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
-10:55:54:460 (00017784) > [Render] 		- Mode 75 : 2560 x 1440 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
-10:55:54:460 (00017784) > [Render] 		- Mode 76 : 2560 x 1440 @  75 Hz, stereo = 0, hdr = 0 exclusive = 0
-10:55:54:460 (00017784) > [Render] ***** Additional Monitor Output Info *****
-10:55:54:460 (00017784) > [Render] 		BitsPerColor: 8
-10:55:54:460 (00017784) > [Render] 		Primaries: R=0.6514;0.3398  G=0.3193;0.6230  B=0.1533;0.0605  White-Point=0.3135;0.3291
-10:55:54:461 (00017784) > [Render] 		HDR: No (Color Space: DXGI_COLOR_SPACE_RGB_FULL_G22_NONE_P709)
-10:55:54:461 (00017784) > [Render] 		Luminance: Min=0.0181 Max=408.7600 MaxFullFrame=400.0000
-10:55:54:461 (00017784) > [Render] ******************************************
-10:55:54:461 (00017784) > [Render] 
-10:55:55:904 (00017784) > [NxReflex] Reflex support result:Result::eOk
-10:55:55:905 (00017784) > [NxReflex] Reflex GetState result:Result::eErrorNotInitialized
-10:55:55:905 (00017784) > [NxReflex] DLSSG support result:Result::eErrorOSDisabledHWS
-10:55:55:905 (00017784) > [NxApp] Querying GPU Driver Info...
-10:55:55:905 (00017784) > [NxApp] Enumerating available display adapters:
-10:55:55:958 (00017784) > [NxApp] 		NVIDIA GeForce RTX 3050 (active)
-10:55:55:958 (00017784) > [NxApp] Successfully found GPU Driver Info
-10:55:55:958 (00017784) > [D3D] Max supported feature level: 11.0
-10:55:55:958 (00017784) > [Render] Disabled D3D12 experimentals
-10:55:56:183 (00017784) > [Render] VMEM Budget: 7274 MB
-10:55:56:183 (00017784) > [Render] VMEM Available: 7267 MB
-10:55:57:854 (00017784) > [Render] GPU node count: 1
-10:55:57:885 (00017784) > [NxFfx] Anti-Lag2 not supported. Error code (-2147024809)
-10:55:57:885 (00017784) > [NxReflex] Reflex support result:Result::eOk
-10:55:57:885 (00017784) > [NxReflex] Reflex GetState result:Result::eOk
-10:55:57:885 (00017784) > [NxApp] PreInit successful.
-10:55:57:886 (00017784) > [NxUpscaler] SL DLSS support: Result::eOk
-10:55:57:934 (00017784) > [NxUpscaler] XeSS init, code = 0
-10:55:57:937 (00017784) > [Input] Keyboard language: "English (U.S. Outlying Islands)" (id: 8192)
-10:55:57:937 (00017784) > [Input] Keyboard physical layout: "US" (id: 00000409)
-10:55:57:938 (00017784) > [Input] Mouse               "HID-compliant mouse"   id 256 buttons 5 sampleRate 0 horizontalWheel no
-10:55:57:938 (00017784) > [Input] Keyboard            "HID Keyboard Device"   type 81 subType 0 mode 1 function 12 indicators 3 total 264
-10:55:57:938 (00017784) > [Input] Joystick            ""   product 62860 vendor 13652 version 288 usage 2 usagePage 65282 xinput no
-10:55:57:938 (00017784) > [Input] Joystick            ""   product 62860 vendor 13652 version 288 usage 1 usagePage 12 xinput no
-10:55:57:938 (00017784) > [Input] Joystick            ""   product 62860 vendor 13652 version 288 usage 0 usagePage 65283 xinput no
-10:55:57:938 (00017784) > [Input] Joystick            ""   product 62860 vendor 13652 version 288 usage 0 usagePage 65285 xinput no
-10:55:57:938 (00017784) > [Input] Joystick            ""   product 8200 vendor 6975 version 256 usage 1 usagePage 12 xinput no
-10:55:57:938 (00017784) > [Input] Joystick            ""   product 30276 vendor 3141 version 256 usage 146 usagePage 65308 xinput no
-10:55:57:938 (00017784) > [Input] Joystick            ""   product 30276 vendor 3141 version 256 usage 1 usagePage 12 xinput no
-10:55:57:938 (00017784) > [Input] Joystick            ""   product 30276 vendor 3141 version 256 usage 12 usagePage 1 xinput no
-10:55:57:938 (00017784) > [Input] Keyboard            "Feizhi Virtual Keyboard"   type 2 subType 0 mode 2 function 0 indicators 0 total 101
-10:55:57:938 (00017784) > [Input] Keyboard            "HID Keyboard Device"   type 81 subType 0 mode 1 function 12 indicators 3 total 109
-10:55:57:938 (00017784) > [Input] Keyboard            "HID Keyboard Device"   type 81 subType 0 mode 1 function 12 indicators 3 total 264
-10:55:57:938 (00017784) > [Input] Mouse               "Feizhi Pointing Device"   id 128 buttons 5 sampleRate 1000 horizontalWheel no
-10:55:57:938 (00017784) > [Input] Could not initialize Windows.Gaming.Input
-10:55:57:940 (00017784) > [Input] Trying to load libScePad from C:\ProgramData\Sony Interactive Entertainment Inc\PSPC_SDK\S22\5.50.00.11\libScePad.dll
-10:55:57:980 (00017784) > [Input] Not using LibScePad
-10:55:57:981 (00017784) > [XInput] Enumerating available xusb hid devices:
+19:30:59:278 (00007992) > [Startup] Ghost of Tsushima DIRECTOR'S CUT
+19:30:59:278 (00007992) > [Startup] ==============
+19:30:59:278 (00007992) > [Startup] 
+19:30:59:278 (00007992) > [Startup] Build: v1053.7.0809.1937
+19:30:59:278 (00007992) > [Startup] Windows 10.0 (build 19045.6466)
+19:30:59:278 (00007992) > [Startup] Distribution platform: Steam
+19:30:59:278 (00007992) > [Startup] Game directory: C:\Users\<username>\Documents\Ghost of Tsushima DIRECTOR'S CUT\
+19:30:59:278 (00007992) > [Startup] Working directory: D:\Crack\[tamhongame.com]_GOTDC Viet Hoa\Ghost of Tsushima DIRECTOR'S CUT Viet Hoa
+19:30:59:278 (00007992) > [Startup] Run ID: B660-4FFC-B6C0-04ED
+19:30:59:278 (00007992) > [Startup] 
+19:30:59:278 (00007992) > [Startup] Memory statistics:
+19:30:59:278 (00007992) > [Startup]   Total RAM = 15.9 GB (16306 MB)
+19:30:59:278 (00007992) > [Startup]   Avail RAM = 9.3 GB (9535 MB)
+19:30:59:278 (00007992) > [Startup]   Total virtual memory = 131072.0 GB (134217727 MB)
+19:30:59:278 (00007992) > [Startup]   Avail virtual memory = 131066.7 GB (134212342 MB)
+19:30:59:278 (00007992) > [Startup]   Total page file = 24.9 GB (25522 MB)
+19:30:59:278 (00007992) > [Startup]   Avail page file = 16.2 GB (16620 MB)
+19:30:59:278 (00007992) > [Startup] 
+19:30:59:278 (00007992) > [Steam] Initializing.
+19:30:59:278 (00007992) > [Steam] Successfully initialized.
+19:30:59:278 (00007992) > [Steam] Currently connected to 0 remote sessions
+19:30:59:278 (00007992) > [NxSteam] End previously existing file batch, did the game quit abnormally while saving?
+19:30:59:278 (00007992) > [Steam] Steam beta branch: unknown
+19:30:59:866 (00007992) > [NxApp] PreInit
+19:30:59:866 (00007992) > [NxProcessorInfo] Processor info:
+19:30:59:866 (00007992) > [NxProcessorInfo] 	Description:             	Intel(R) Core(TM) i5-10400F CPU @ 2.90GHz
+19:30:59:866 (00007992) > [NxProcessorInfo] 	NumaNode Count:    	0
+19:30:59:866 (00007992) > [NxProcessorInfo] 	Group Count:       	1
+19:30:59:866 (00007992) > [NxProcessorInfo] 	Physical Core:     	6
+19:30:59:866 (00007992) > [NxProcessorInfo] 	Logical  Core:     	12
+19:30:59:866 (00007992) > [NxProcessorInfo] 	Distinct L3 Cache: 	1
+19:30:59:866 (00007992) > [NxProcessorInfo] 	Family:            	6
+19:30:59:866 (00007992) > [NxProcessorInfo] 	Model:             	165
+19:30:59:866 (00007992) > [NxProcessorInfo] 	Name:              	Intel(R) Core(TM) i5-10400F CPU @ 2.90GHz
+19:30:59:866 (00007992) > [NxProcessorInfo] 	AVX:               	1
+19:30:59:866 (00007992) > [NxProcessorInfo] 	F16C:              	1
+19:30:59:866 (00007992) > [NxProcessorInfo] 	AVX2:              	1
+19:30:59:866 (00007992) > [NxProcessorInfo] 	NormalAffinity(auto)
+19:30:59:867 (00007992) > [SwapChain] Initializing...
+19:30:59:867 (00007992) > [DXGI] Initializing...
+19:31:03:293 (00007992) > [NxApp] Streamline was successfully initialized.
+19:31:03:293 (00007992) > [DXGI] Successfully initialized.
+19:31:03:293 (00007992) > [Render] Enumerating adapters:
+19:31:03:293 (00007992) > [Render] 	Adapter 0:
+19:31:03:293 (00007992) > [Monitor] 		Description             : NVIDIA GeForce RTX 3050
+19:31:03:293 (00007992) > [Monitor] 		Vendor                  : nVidia (10de)
+19:31:03:293 (00007992) > [Monitor] 		Device                  : 2507
+19:31:03:293 (00007992) > [Monitor] 		Sub system              : 250710de
+19:31:03:293 (00007992) > [Monitor] 		Revision                : 161
+19:31:03:293 (00007992) > [Monitor] 		Dedicated Video Memory  : 8042 MB
+19:31:03:293 (00007992) > [Monitor] 		Dedicated System Memory : 0000 MB
+19:31:03:293 (00007992) > [Monitor] 		Shared System Memory    : 8153 MB
+19:31:03:293 (00007992) > [Monitor] 
+19:31:03:293 (00007992) > [Render] Loading NVAPI...
+19:31:03:294 (00007992) > [Render] Done loading NVAPI
+19:31:03:294 (00007992) > [Render] 	Adapter 1:
+19:31:03:294 (00007992) > [Monitor] 		Description             : Microsoft Basic Render Driver
+19:31:03:294 (00007992) > [Monitor] 		Vendor                  : Unknown (1414)
+19:31:03:294 (00007992) > [Monitor] 		Device                  : 8c
+19:31:03:294 (00007992) > [Monitor] 		Sub system              : 0
+19:31:03:294 (00007992) > [Monitor] 		Revision                : 0
+19:31:03:294 (00007992) > [Monitor] 		Dedicated Video Memory  : 0000 MB
+19:31:03:294 (00007992) > [Monitor] 		Dedicated System Memory : 0000 MB
+19:31:03:294 (00007992) > [Monitor] 		Shared System Memory    : 8153 MB
+19:31:03:294 (00007992) > [Monitor] 
+19:31:03:294 (00007992) > [Render] Enumerating monitors:
+19:31:03:294 (00007992) > [Render] 	Monitor 0: handle = 0000000000010001, aspect = 1.78, rounded aspect = 1.78
+19:31:03:294 (00007992) > [Render] 
+19:31:03:297 (00007992) > [Render] 	Monitor handle = 0000000000010001, pixel aspect ratio = 1.00
+19:31:03:297 (00007992) > [SwapChain] Successfully initialized.
+19:31:03:297 (00007992) > [Render] Enumerating Display Modes:
+19:31:03:298 (00007992) > [Render] Querying NVAPI for Surround modes
+19:31:03:370 (00007992) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() - no surround modes detected
+19:31:03:370 (00007992) > [Render] 	Monitor '1 (NVIDIA GeForce RTX 3050(1))' (0000000000010001): rect(0 2560 0 1440)
+19:31:03:370 (00007992) > [Render] 		- Mode  0 :  800 x  600 @  75 Hz, stereo = 0, hdr = 0 exclusive = 0
+19:31:03:370 (00007992) > [Render] 		- Mode  1 :  800 x  600 @  56 Hz, stereo = 0, hdr = 0 exclusive = 0
+19:31:03:370 (00007992) > [Render] 		- Mode  2 :  800 x  600 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+19:31:03:370 (00007992) > [Render] 		- Mode  3 :  800 x  600 @  72 Hz, stereo = 0, hdr = 0 exclusive = 0
+19:31:03:370 (00007992) > [Render] 		- Mode  4 : 1024 x  768 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+19:31:03:370 (00007992) > [Render] 		- Mode  5 : 1024 x  768 @  70 Hz, stereo = 0, hdr = 0 exclusive = 0
+19:31:03:370 (00007992) > [Render] 		- Mode  6 : 1024 x  768 @  75 Hz, stereo = 0, hdr = 0 exclusive = 0
+19:31:03:370 (00007992) > [Render] 		- Mode  7 : 1152 x  864 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+19:31:03:370 (00007992) > [Render] 		- Mode  8 : 1152 x  864 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+19:31:03:370 (00007992) > [Render] 		- Mode  9 : 1176 x  664 @  50 Hz, stereo = 0, hdr = 0 exclusive = 0
+19:31:03:370 (00007992) > [Render] 		- Mode 10 : 1176 x  664 @  50 Hz, stereo = 0, hdr = 0 exclusive = 0
+19:31:03:370 (00007992) > [Render] 		- Mode 11 : 1176 x  664 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+19:31:03:370 (00007992) > [Render] 		- Mode 12 : 1176 x  664 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+19:31:03:370 (00007992) > [Render] 		- Mode 13 : 1176 x  664 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+19:31:03:370 (00007992) > [Render] 		- Mode 14 : 1176 x  664 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+19:31:03:370 (00007992) > [Render] 		- Mode 15 : 1280 x  720 @  50 Hz, stereo = 0, hdr = 0 exclusive = 0
+19:31:03:370 (00007992) > [Render] 		- Mode 16 : 1280 x  720 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+19:31:03:370 (00007992) > [Render] 		- Mode 17 : 1280 x  720 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+19:31:03:370 (00007992) > [Render] 		- Mode 18 : 1280 x  768 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+19:31:03:370 (00007992) > [Render] 		- Mode 19 : 1280 x  768 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+19:31:03:370 (00007992) > [Render] 		- Mode 20 : 1280 x  800 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+19:31:03:370 (00007992) > [Render] 		- Mode 21 : 1280 x  800 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+19:31:03:370 (00007992) > [Render] 		- Mode 22 : 1280 x  960 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+19:31:03:370 (00007992) > [Render] 		- Mode 23 : 1280 x  960 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+19:31:03:370 (00007992) > [Render] 		- Mode 24 : 1280 x  960 @  75 Hz, stereo = 0, hdr = 0 exclusive = 0
+19:31:03:370 (00007992) > [Render] 		- Mode 25 : 1280 x  960 @  75 Hz, stereo = 0, hdr = 0 exclusive = 0
+19:31:03:370 (00007992) > [Render] 		- Mode 26 : 1280 x 1024 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+19:31:03:370 (00007992) > [Render] 		- Mode 27 : 1280 x 1024 @  75 Hz, stereo = 0, hdr = 0 exclusive = 0
+19:31:03:370 (00007992) > [Render] 		- Mode 28 : 1360 x  768 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+19:31:03:370 (00007992) > [Render] 		- Mode 29 : 1360 x  768 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+19:31:03:370 (00007992) > [Render] 		- Mode 30 : 1366 x  768 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+19:31:03:370 (00007992) > [Render] 		- Mode 31 : 1366 x  768 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+19:31:03:370 (00007992) > [Render] 		- Mode 32 : 1440 x  900 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+19:31:03:370 (00007992) > [Render] 		- Mode 33 : 1440 x 1080 @  24 Hz, stereo = 0, hdr = 0 exclusive = 0
+19:31:03:370 (00007992) > [Render] 		- Mode 34 : 1440 x 1080 @  24 Hz, stereo = 0, hdr = 0 exclusive = 0
+19:31:03:370 (00007992) > [Render] 		- Mode 35 : 1440 x 1080 @  25 Hz, stereo = 0, hdr = 0 exclusive = 0
+19:31:03:370 (00007992) > [Render] 		- Mode 36 : 1440 x 1080 @  25 Hz, stereo = 0, hdr = 0 exclusive = 0
+19:31:03:370 (00007992) > [Render] 		- Mode 37 : 1440 x 1080 @  30 Hz, stereo = 0, hdr = 0 exclusive = 0
+19:31:03:370 (00007992) > [Render] 		- Mode 38 : 1440 x 1080 @  30 Hz, stereo = 0, hdr = 0 exclusive = 0
+19:31:03:370 (00007992) > [Render] 		- Mode 39 : 1440 x 1080 @  50 Hz, stereo = 0, hdr = 0 exclusive = 0
+19:31:03:370 (00007992) > [Render] 		- Mode 40 : 1440 x 1080 @  50 Hz, stereo = 0, hdr = 0 exclusive = 0
+19:31:03:370 (00007992) > [Render] 		- Mode 41 : 1440 x 1080 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+19:31:03:370 (00007992) > [Render] 		- Mode 42 : 1440 x 1080 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+19:31:03:370 (00007992) > [Render] 		- Mode 43 : 1440 x 1080 @  24 Hz, stereo = 0, hdr = 0 exclusive = 0
+19:31:03:370 (00007992) > [Render] 		- Mode 44 : 1440 x 1080 @  24 Hz, stereo = 0, hdr = 0 exclusive = 0
+19:31:03:370 (00007992) > [Render] 		- Mode 45 : 1440 x 1080 @  30 Hz, stereo = 0, hdr = 0 exclusive = 0
+19:31:03:370 (00007992) > [Render] 		- Mode 46 : 1440 x 1080 @  30 Hz, stereo = 0, hdr = 0 exclusive = 0
+19:31:03:370 (00007992) > [Render] 		- Mode 47 : 1440 x 1080 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+19:31:03:370 (00007992) > [Render] 		- Mode 48 : 1440 x 1080 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+19:31:03:370 (00007992) > [Render] 		- Mode 49 : 1600 x  900 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+19:31:03:370 (00007992) > [Render] 		- Mode 50 : 1600 x  900 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+19:31:03:370 (00007992) > [Render] 		- Mode 51 : 1600 x 1024 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+19:31:03:370 (00007992) > [Render] 		- Mode 52 : 1600 x 1024 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+19:31:03:370 (00007992) > [Render] 		- Mode 53 : 1600 x 1200 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+19:31:03:370 (00007992) > [Render] 		- Mode 54 : 1600 x 1200 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+19:31:03:370 (00007992) > [Render] 		- Mode 55 : 1680 x 1050 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+19:31:03:370 (00007992) > [Render] 		- Mode 56 : 1920 x 1080 @  24 Hz, stereo = 0, hdr = 0 exclusive = 0
+19:31:03:370 (00007992) > [Render] 		- Mode 57 : 1920 x 1080 @  25 Hz, stereo = 0, hdr = 0 exclusive = 0
+19:31:03:370 (00007992) > [Render] 		- Mode 58 : 1920 x 1080 @  30 Hz, stereo = 0, hdr = 0 exclusive = 0
+19:31:03:370 (00007992) > [Render] 		- Mode 59 : 1920 x 1080 @  50 Hz, stereo = 0, hdr = 0 exclusive = 0
+19:31:03:370 (00007992) > [Render] 		- Mode 60 : 1920 x 1080 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+19:31:03:370 (00007992) > [Render] 		- Mode 61 : 1920 x 1080 @  24 Hz, stereo = 0, hdr = 0 exclusive = 0
+19:31:03:370 (00007992) > [Render] 		- Mode 62 : 1920 x 1080 @  30 Hz, stereo = 0, hdr = 0 exclusive = 0
+19:31:03:370 (00007992) > [Render] 		- Mode 63 : 1920 x 1080 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+19:31:03:370 (00007992) > [Render] 		- Mode 64 : 1920 x 1200 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+19:31:03:370 (00007992) > [Render] 		- Mode 65 : 1920 x 1440 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+19:31:03:370 (00007992) > [Render] 		- Mode 66 : 2048 x 1152 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+19:31:03:370 (00007992) > [Render] 		- Mode 67 : 2560 x 1080 @  24 Hz, stereo = 0, hdr = 0 exclusive = 0
+19:31:03:370 (00007992) > [Render] 		- Mode 68 : 2560 x 1080 @  25 Hz, stereo = 0, hdr = 0 exclusive = 0
+19:31:03:370 (00007992) > [Render] 		- Mode 69 : 2560 x 1080 @  30 Hz, stereo = 0, hdr = 0 exclusive = 0
+19:31:03:370 (00007992) > [Render] 		- Mode 70 : 2560 x 1080 @  50 Hz, stereo = 0, hdr = 0 exclusive = 0
+19:31:03:370 (00007992) > [Render] 		- Mode 71 : 2560 x 1080 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+19:31:03:370 (00007992) > [Render] 		- Mode 72 : 2560 x 1080 @  24 Hz, stereo = 0, hdr = 0 exclusive = 0
+19:31:03:370 (00007992) > [Render] 		- Mode 73 : 2560 x 1080 @  30 Hz, stereo = 0, hdr = 0 exclusive = 0
+19:31:03:370 (00007992) > [Render] 		- Mode 74 : 2560 x 1080 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+19:31:03:370 (00007992) > [Render] 		- Mode 75 : 2560 x 1440 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+19:31:03:370 (00007992) > [Render] 		- Mode 76 : 2560 x 1440 @  75 Hz, stereo = 0, hdr = 0 exclusive = 0
+19:31:03:370 (00007992) > [Render] ***** Additional Monitor Output Info *****
+19:31:03:370 (00007992) > [Render] 		BitsPerColor: 8
+19:31:03:370 (00007992) > [Render] 		Primaries: R=0.6514;0.3398  G=0.3193;0.6230  B=0.1533;0.0605  White-Point=0.3135;0.3291
+19:31:03:370 (00007992) > [Render] 		HDR: No (Color Space: DXGI_COLOR_SPACE_RGB_FULL_G22_NONE_P709)
+19:31:03:370 (00007992) > [Render] 		Luminance: Min=0.0181 Max=408.7600 MaxFullFrame=400.0000
+19:31:03:370 (00007992) > [Render] ******************************************
+19:31:03:370 (00007992) > [Render] 
+19:31:04:878 (00007992) > [NxReflex] Reflex support result:Result::eOk
+19:31:04:878 (00007992) > [NxReflex] Reflex GetState result:Result::eErrorNotInitialized
+19:31:04:879 (00007992) > [NxReflex] DLSSG support result:Result::eErrorOSDisabledHWS
+19:31:04:879 (00007992) > [NxApp] Querying GPU Driver Info...
+19:31:04:879 (00007992) > [NxApp] Enumerating available display adapters:
+19:31:04:954 (00007992) > [NxApp] 		NVIDIA GeForce RTX 3050 (active)
+19:31:04:955 (00007992) > [NxApp] Successfully found GPU Driver Info
+19:31:04:955 (00007992) > [D3D] Max supported feature level: 11.0
+19:31:04:955 (00007992) > [Render] Disabled D3D12 experimentals
+19:31:05:168 (00007992) > [Render] VMEM Budget: 7274 MB
+19:31:05:168 (00007992) > [Render] VMEM Available: 7267 MB
+19:31:06:746 (00007992) > [Render] GPU node count: 1
+19:31:06:777 (00007992) > [NxFfx] Anti-Lag2 not supported. Error code (-2147024809)
+19:31:06:777 (00007992) > [NxReflex] Reflex support result:Result::eOk
+19:31:06:777 (00007992) > [NxReflex] Reflex GetState result:Result::eOk
+19:31:06:777 (00007992) > [NxApp] PreInit successful.
+19:31:06:778 (00007992) > [NxUpscaler] SL DLSS support: Result::eOk
+19:31:06:826 (00007992) > [NxUpscaler] XeSS init, code = 0
+19:31:06:829 (00007992) > [Input] Keyboard language: "English (U.S. Outlying Islands)" (id: 8192)
+19:31:06:829 (00007992) > [Input] Keyboard physical layout: "US" (id: 00000409)
+19:31:06:829 (00007992) > [Input] Mouse               "HID-compliant mouse"   id 256 buttons 5 sampleRate 0 horizontalWheel no
+19:31:06:829 (00007992) > [Input] Keyboard            "HID Keyboard Device"   type 81 subType 0 mode 1 function 12 indicators 3 total 264
+19:31:06:830 (00007992) > [Input] Joystick            ""   product 62860 vendor 13652 version 288 usage 2 usagePage 65282 xinput no
+19:31:06:830 (00007992) > [Input] Joystick            ""   product 62860 vendor 13652 version 288 usage 1 usagePage 12 xinput no
+19:31:06:830 (00007992) > [Input] Joystick            ""   product 62860 vendor 13652 version 288 usage 0 usagePage 65283 xinput no
+19:31:06:830 (00007992) > [Input] Joystick            ""   product 62860 vendor 13652 version 288 usage 0 usagePage 65285 xinput no
+19:31:06:830 (00007992) > [Input] Joystick            ""   product 8200 vendor 6975 version 256 usage 1 usagePage 12 xinput no
+19:31:06:830 (00007992) > [Input] Joystick            ""   product 30276 vendor 3141 version 256 usage 146 usagePage 65308 xinput no
+19:31:06:830 (00007992) > [Input] Joystick            ""   product 30276 vendor 3141 version 256 usage 1 usagePage 12 xinput no
+19:31:06:830 (00007992) > [Input] Joystick            ""   product 30276 vendor 3141 version 256 usage 12 usagePage 1 xinput no
+19:31:06:830 (00007992) > [Input] Keyboard            "Feizhi Virtual Keyboard"   type 2 subType 0 mode 2 function 0 indicators 0 total 101
+19:31:06:830 (00007992) > [Input] Keyboard            "HID Keyboard Device"   type 81 subType 0 mode 1 function 12 indicators 3 total 109
+19:31:06:830 (00007992) > [Input] Keyboard            "HID Keyboard Device"   type 81 subType 0 mode 1 function 12 indicators 3 total 264
+19:31:06:830 (00007992) > [Input] Mouse               "Feizhi Pointing Device"   id 128 buttons 5 sampleRate 1000 horizontalWheel no
+19:31:06:830 (00007992) > [Input] Could not initialize Windows.Gaming.Input
+19:31:06:831 (00007992) > [Input] Trying to load libScePad from C:\ProgramData\Sony Interactive Entertainment Inc\PSPC_SDK\S22\5.50.00.11\libScePad.dll
+19:31:06:870 (00007992) > [Input] Not using LibScePad
+19:31:06:870 (00007992) > [XInput] Enumerating available xusb hid devices:
 
-10:56:03:068 (00017784) > [NxReflex] Reflex support result:Result::eOk
-10:56:03:068 (00017784) > [NxReflex] Reflex GetState result:Result::eOk
-10:56:03:069 (00017784) > [NxReflex] DLSSG support result:Result::eErrorOSDisabledHWS
-10:56:03:069 (00017784) > [NxApp] Driver Desc: NVIDIA GeForce RTX 3050
-10:56:03:069 (00017784) > [NxApp] Driver Version: 591.59
-10:56:03:069 (00017784) > [**************************************************Display + Graphics Settings**************************************************] 
-10:56:03:069 (00017784) > [Settings] DirectX Version: 12
-10:56:03:069 (00017784) > [Settings] Window mode: Windowed
-10:56:03:069 (00017784) > [Settings] Window settings:
-10:56:03:069 (00017784) > [Settings] 	Window position: x: 320 y: 180 
-10:56:03:069 (00017784) > [Settings] 	Window size: width: 1920 height: 1080 
-10:56:03:069 (00017784) > [Settings] 	Window maximized? No
-10:56:03:069 (00017784) > [Settings] 	OS reported Refresh rate: 75
-10:56:03:069 (00017784) > [Settings] 	VSync: On
-10:56:03:069 (00017784) > [Settings] 	Reflex: Low Latency
-10:56:03:069 (00017784) > [Settings] 	Anti-Lag2: Off
-10:56:03:069 (00017784) > [Settings] 	Frame generation: FSR
-10:56:03:069 (00017784) > [Settings] 	Dynamic resolution FPS target: 75
-10:56:03:069 (00017784) > [Settings] Anti aliasing: DLAA
-10:56:03:069 (00017784) > [Settings] Upscale method: DLSS
-10:56:03:069 (00017784) > [Settings] Upscale quality: Dynamic
-10:56:03:069 (00017784) > [Settings] Graphics Options:
-10:56:03:069 (00017784) > [Settings] 	Texture Quality: High
-10:56:03:069 (00017784) > [Settings] 	Texture Filtering: Anisotropic4x
-10:56:03:069 (00017784) > [Settings] 	Shadow Quality: High
-10:56:03:069 (00017784) > [Settings] 	Depth of Field: High
-10:56:03:069 (00017784) > [Settings] 	Level of Detail: High
-10:56:03:069 (00017784) > [Settings] 	Terrain Detail: High
-10:56:03:069 (00017784) > [Settings] 	Ambient Occlusion: SSAO Quality
-10:56:03:069 (00017784) > [Settings] 	Screen Space Reflections: Half Res
-10:56:03:069 (00017784) > [Settings] 	Screen Space Shadows: High
-10:56:03:069 (00017784) > [Settings] 	Volumetric Fog: High
-10:56:03:069 (00017784) > [Settings] 	Bloom: On
-10:56:03:069 (00017784) > [Settings] 	Vignette: On
-10:56:03:069 (00017784) > [Settings] 	Caustics: On
-10:56:03:069 (00017784) > [Settings] 	Motion Blur: 1.000000
-10:56:03:069 (00017784) > [Settings] 	FOV Correction: 1.000000
-10:56:03:069 (00017784) > [**************************************************Display + Graphics Settings**************************************************] 
-10:56:03:069 (00017784) > [Startup] Creating compute command queue of type 2
-10:56:03:085 (00017784) > [Startup] Creating copy command queue of type 3
-10:56:03:093 (00017784) > [NxApp] Creating window...
-10:56:03:094 (00010444) > [GameWindow] UpdateState bVisible true
-10:56:03:110 (00017784) > [NxApp] Window created.
-10:56:03:110 (00017784) > [NxApp] Initializing swapchain...
-10:56:03:110 (00011052) > [SwapChain] Creating...
-10:56:03:110 (00011052) > [NxSwapChainImpl] Swapchain native backbuffer (windows) resolution: 1920x1080
-10:56:03:111 (00011052) > [Upscaler] ConvertScreenToRenderRes: wxh = 1920x1080 | min = 960x540 | max =  1920x1080
-10:56:03:185 (00011052) > [NxFfx] Succesfully created the frame interpolation swapchain.
-10:56:03:185 (00011052) > [DXGI] Created swapchain.
-10:56:03:208 (00011052) > [SwapChain] Gamma correction is enabled.
-10:56:03:208 (00011052) > [SwapChain] Successfully created.
-10:56:03:208 (00011052) > [NxSwapChainImpl] Swapchain native backbuffer (windows) resolution: 1920x1080
-10:56:03:208 (00011052) > [Upscaler] ConvertScreenToRenderRes: wxh = 1920x1080 | min = 960x540 | max =  1920x1080
-10:56:03:208 (00017784) > [NxApp] Swapchain initialized
-10:56:03:208 (00017784) > [NxApp] Initializing renderer...
-10:56:03:208 (00017784) > [NxApp] Renderer initialized
-10:56:03:209 (00017784) > [NxStorage] Detected device at 'd:\crack\[tamhongame.com]_gotdc viet hoa\ghost of tsushima director's cut viet hoa', name 'PNY CS900 500GB SSD', SSD: Yes, NVMe: No
-10:56:03:566 (00017784) > [NxStorage] DirectStorage initialization succeeded
-10:56:03:566 (00017784) > [CJobManager] Creating  10 worker threads, run on  11 cores
-10:56:03:643 (00017784) > [Render] Pipeline cache C:\Users\<username>\AppData\Roaming\Sucker Punch Productions\Ghost of Tsushima DIRECTOR'S CUT\\user.pso read succesfully, read 8 pipelines, found 0 duplicates.
-10:56:03:667 (00017784) > [Render] Pipeline cache default.pso read succesfully, read 16192 pipelines, found 0 duplicates.
-10:56:04:099 (00017784) > [Steam] Stats received: 2
-10:56:04:130 (00017784) > [NxFfx] Creating the FSR3 context.
-10:56:04:231 (00017784) > [NxFfx] Sucessfully created a FSR3 context.
-10:56:50:569 (00014740) > [Render] Quering NVAPI for GPU temperature
-10:56:50:569 (00014740) > [Render] Working set: 5017MB Page file: 8526MB Video Budget: 7274MB Video Usage: 2783MB Sys Budget: 7489MB Sys Usage: 412MB Demoted: 0MB fps: 27.9
-10:57:49:091 (00017784) > [Input] XInput controller connected. index: 0
-10:57:49:091 (00017784) > [Input] Gamepads connected: 0 -> 1
-10:57:49:091 (00017784) > [Input] Gamepad for main player: 0
-10:57:50:583 (00014740) > [Render] Quering NVAPI for GPU temperature
-10:57:50:583 (00014740) > [Render] Working set: 4439MB Page file: 8348MB Video Budget: 7274MB Video Usage: 2684MB Sys Budget: 7489MB Sys Usage: 412MB Demoted: 0MB fps: 37.5
-10:58:50:585 (00014740) > [Render] Quering NVAPI for GPU temperature
-10:58:50:585 (00014740) > [Render] Working set: 5667MB Page file: 10997MB Video Budget: 7274MB Video Usage: 4382MB Sys Budget: 7489MB Sys Usage: 430MB Demoted: 0MB fps: 32.7
-10:59:50:597 (00014740) > [Render] Quering NVAPI for GPU temperature
-10:59:50:597 (00014740) > [Render] Working set: 5710MB Page file: 11144MB Video Budget: 7274MB Video Usage: 4494MB Sys Budget: 7489MB Sys Usage: 435MB Demoted: 0MB fps: 34.0
-11:00:50:626 (00014740) > [Render] Quering NVAPI for GPU temperature
-11:00:50:626 (00014740) > [Render] Working set: 5409MB Page file: 11132MB Video Budget: 7274MB Video Usage: 4475MB Sys Budget: 7489MB Sys Usage: 436MB Demoted: 0MB fps: 33.6
-11:01:50:629 (00014740) > [Render] Quering NVAPI for GPU temperature
-11:01:50:629 (00014740) > [Render] Working set: 5428MB Page file: 11187MB Video Budget: 7274MB Video Usage: 4513MB Sys Budget: 7489MB Sys Usage: 436MB Demoted: 0MB fps: 32.5
-11:02:50:626 (00014740) > [Render] Quering NVAPI for GPU temperature
-11:02:50:627 (00014740) > [Render] Working set: 5420MB Page file: 11199MB Video Budget: 7274MB Video Usage: 4530MB Sys Budget: 7489MB Sys Usage: 436MB Demoted: 0MB fps: 32.6
-11:03:50:650 (00014740) > [Render] Quering NVAPI for GPU temperature
-11:03:50:650 (00014740) > [Render] Working set: 5425MB Page file: 11270MB Video Budget: 7274MB Video Usage: 4578MB Sys Budget: 7489MB Sys Usage: 437MB Demoted: 0MB fps: 32.5
-11:04:50:649 (00014740) > [Render] Quering NVAPI for GPU temperature
-11:04:50:649 (00014740) > [Render] Working set: 5433MB Page file: 11316MB Video Budget: 7274MB Video Usage: 4615MB Sys Budget: 7489MB Sys Usage: 437MB Demoted: 0MB fps: 33.1
-11:05:50:677 (00014740) > [Render] Quering NVAPI for GPU temperature
-11:05:50:677 (00014740) > [Render] Working set: 5452MB Page file: 11368MB Video Budget: 7274MB Video Usage: 4641MB Sys Budget: 7489MB Sys Usage: 441MB Demoted: 0MB fps: 32.0
-11:06:50:680 (00014740) > [Render] Quering NVAPI for GPU temperature
-11:06:50:680 (00014740) > [Render] Working set: 5457MB Page file: 11373MB Video Budget: 7274MB Video Usage: 4641MB Sys Budget: 7489MB Sys Usage: 441MB Demoted: 0MB fps: 32.5
-11:07:50:692 (00014740) > [Render] Quering NVAPI for GPU temperature
-11:07:50:692 (00014740) > [Render] Working set: 5477MB Page file: 11419MB Video Budget: 7274MB Video Usage: 4675MB Sys Budget: 7489MB Sys Usage: 441MB Demoted: 0MB fps: 35.8
-11:08:50:704 (00014740) > [Render] Quering NVAPI for GPU temperature
-11:08:50:704 (00014740) > [Render] Working set: 5489MB Page file: 11430MB Video Budget: 7274MB Video Usage: 4684MB Sys Budget: 7489MB Sys Usage: 441MB Demoted: 0MB fps: 37.5
-11:09:50:703 (00014740) > [Render] Quering NVAPI for GPU temperature
-11:09:50:703 (00014740) > [Render] Working set: 5477MB Page file: 11429MB Video Budget: 7274MB Video Usage: 4687MB Sys Budget: 7489MB Sys Usage: 441MB Demoted: 0MB fps: 37.5
-11:10:50:702 (00014740) > [Render] Quering NVAPI for GPU temperature
-11:10:50:702 (00014740) > [Render] Working set: 5502MB Page file: 11545MB Video Budget: 7274MB Video Usage: 4781MB Sys Budget: 7489MB Sys Usage: 441MB Demoted: 0MB fps: 37.5
-11:11:50:703 (00014740) > [Render] Quering NVAPI for GPU temperature
-11:11:50:703 (00014740) > [Render] Working set: 2890MB Page file: 11556MB Video Budget: 7274MB Video Usage: 4793MB Sys Budget: 7489MB Sys Usage: 441MB Demoted: 0MB fps: 37.5
-11:12:50:705 (00014740) > [Render] Quering NVAPI for GPU temperature
-11:12:50:705 (00014740) > [Render] Working set: 2891MB Page file: 11554MB Video Budget: 7274MB Video Usage: 4790MB Sys Budget: 7489MB Sys Usage: 441MB Demoted: 0MB fps: 35.8
-11:13:50:717 (00014740) > [Render] Quering NVAPI for GPU temperature
-11:13:50:717 (00014740) > [Render] Working set: 2996MB Page file: 11907MB Video Budget: 7274MB Video Usage: 5065MB Sys Budget: 7489MB Sys Usage: 441MB Demoted: 0MB fps: 34.7
-11:14:50:713 (00014740) > [Render] Quering NVAPI for GPU temperature
-11:14:50:713 (00014740) > [Render] Working set: 3455MB Page file: 12513MB Video Budget: 7112MB Video Usage: 5399MB Sys Budget: 7489MB Sys Usage: 445MB Demoted: 0MB fps: 33.8
-11:15:50:734 (00014740) > [Render] Quering NVAPI for GPU temperature
-11:15:50:734 (00014740) > [Render] Working set: 3528MB Page file: 12511MB Video Budget: 7274MB Video Usage: 5321MB Sys Budget: 7489MB Sys Usage: 455MB Demoted: 0MB fps: 31.7
-11:16:50:750 (00014740) > [Render] Quering NVAPI for GPU temperature
-11:16:50:750 (00014740) > [Render] Working set: 3566MB Page file: 12798MB Video Budget: 7112MB Video Usage: 5531MB Sys Budget: 7489MB Sys Usage: 455MB Demoted: 0MB fps: 30.8
-11:17:50:743 (00014740) > [Render] Quering NVAPI for GPU temperature
-11:17:50:743 (00014740) > [Render] Working set: 3358MB Page file: 12489MB Video Budget: 7274MB Video Usage: 5182MB Sys Budget: 7489MB Sys Usage: 456MB Demoted: 0MB fps: 32.0
-11:18:50:736 (00014740) > [Render] Quering NVAPI for GPU temperature
-11:18:50:737 (00014740) > [Render] Working set: 3382MB Page file: 12774MB Video Budget: 7123MB Video Usage: 5478MB Sys Budget: 7489MB Sys Usage: 457MB Demoted: 0MB fps: 31.9
-11:19:50:747 (00014740) > [Render] Quering NVAPI for GPU temperature
-11:19:50:747 (00014740) > [Render] Working set: 3675MB Page file: 12791MB Video Budget: 7112MB Video Usage: 5461MB Sys Budget: 7489MB Sys Usage: 457MB Demoted: 0MB fps: 31.2
-11:20:50:755 (00014740) > [Render] Quering NVAPI for GPU temperature
-11:20:50:755 (00014740) > [Render] Working set: 3589MB Page file: 12892MB Video Budget: 7112MB Video Usage: 5524MB Sys Budget: 7489MB Sys Usage: 457MB Demoted: 0MB fps: 31.0
-11:21:50:759 (00014740) > [Render] Quering NVAPI for GPU temperature
-11:21:50:760 (00014740) > [Render] Working set: 2836MB Page file: 12856MB Video Budget: 7112MB Video Usage: 5450MB Sys Budget: 7489MB Sys Usage: 457MB Demoted: 0MB fps: 31.0
-11:22:50:778 (00014740) > [Render] Quering NVAPI for GPU temperature
-11:22:50:778 (00014740) > [Render] Working set: 3205MB Page file: 12935MB Video Budget: 7112MB Video Usage: 5541MB Sys Budget: 7489MB Sys Usage: 474MB Demoted: 0MB fps: 29.6
-11:23:50:789 (00014740) > [Render] Quering NVAPI for GPU temperature
-11:23:50:789 (00014740) > [Render] Working set: 3125MB Page file: 12833MB Video Budget: 7123MB Video Usage: 5531MB Sys Budget: 7489MB Sys Usage: 466MB Demoted: 0MB fps: 29.6
-11:24:50:812 (00014740) > [Render] Quering NVAPI for GPU temperature
-11:24:50:812 (00014740) > [Render] Working set: 2901MB Page file: 12371MB Video Budget: 7274MB Video Usage: 5152MB Sys Budget: 7489MB Sys Usage: 466MB Demoted: 0MB fps: 31.7
-11:25:50:800 (00014740) > [Render] Quering NVAPI for GPU temperature
-11:25:50:800 (00014740) > [Render] Working set: 2837MB Page file: 12581MB Video Budget: 7274MB Video Usage: 5323MB Sys Budget: 7489MB Sys Usage: 466MB Demoted: 0MB fps: 31.4
-11:26:50:798 (00014740) > [Render] Quering NVAPI for GPU temperature
-11:26:50:798 (00014740) > [Render] Working set: 3059MB Page file: 12992MB Video Budget: 7123MB Video Usage: 5504MB Sys Budget: 7489MB Sys Usage: 483MB Demoted: 0MB fps: 30.8
-11:27:50:803 (00014740) > [Render] Quering NVAPI for GPU temperature
-11:27:50:803 (00014740) > [Render] Working set: 2992MB Page file: 12967MB Video Budget: 7112MB Video Usage: 5482MB Sys Budget: 7489MB Sys Usage: 483MB Demoted: 0MB fps: 29.3
-11:28:50:818 (00014740) > [Render] Quering NVAPI for GPU temperature
-11:28:50:819 (00014740) > [Render] Working set: 2887MB Page file: 12533MB Video Budget: 7274MB Video Usage: 5186MB Sys Budget: 7489MB Sys Usage: 467MB Demoted: 0MB fps: 32.1
-11:29:50:826 (00014740) > [Render] Quering NVAPI for GPU temperature
-11:29:50:827 (00014740) > [Render] Working set: 2849MB Page file: 12334MB Video Budget: 7274MB Video Usage: 5039MB Sys Budget: 7489MB Sys Usage: 531MB Demoted: 0MB fps: 33.8
-11:30:50:825 (00014740) > [Render] Quering NVAPI for GPU temperature
-11:30:50:826 (00014740) > [Render] Working set: 2929MB Page file: 12527MB Video Budget: 7274MB Video Usage: 5170MB Sys Budget: 7489MB Sys Usage: 532MB Demoted: 0MB fps: 30.5
-11:31:50:842 (00014740) > [Render] Quering NVAPI for GPU temperature
-11:31:50:842 (00014740) > [Render] Working set: 2805MB Page file: 12609MB Video Budget: 7091MB Video Usage: 5332MB Sys Budget: 7489MB Sys Usage: 468MB Demoted: 0MB fps: 30.6
-11:32:50:859 (00014740) > [Render] Quering NVAPI for GPU temperature
-11:32:50:859 (00014740) > [Render] Working set: 2728MB Page file: 12923MB Video Budget: 7112MB Video Usage: 5596MB Sys Budget: 7489MB Sys Usage: 468MB Demoted: 0MB fps: 29.6
-11:33:50:849 (00014740) > [Render] Quering NVAPI for GPU temperature
-11:33:50:849 (00014740) > [Render] Working set: 2655MB Page file: 12502MB Video Budget: 7274MB Video Usage: 5212MB Sys Budget: 7489MB Sys Usage: 469MB Demoted: 0MB fps: 32.5
-11:34:50:855 (00014740) > [Render] Quering NVAPI for GPU temperature
-11:34:50:855 (00014740) > [Render] Working set: 2708MB Page file: 13036MB Video Budget: 7123MB Video Usage: 5639MB Sys Budget: 7489MB Sys Usage: 469MB Demoted: 0MB fps: 32.8
-11:35:50:849 (00014740) > [Render] Quering NVAPI for GPU temperature
-11:35:50:849 (00014740) > [Render] Working set: 2833MB Page file: 13005MB Video Budget: 7090MB Video Usage: 5558MB Sys Budget: 7489MB Sys Usage: 469MB Demoted: 0MB fps: 31.7
-11:36:50:870 (00014740) > [Render] Quering NVAPI for GPU temperature
-11:36:50:870 (00014740) > [Render] Working set: 3144MB Page file: 13153MB Video Budget: 7123MB Video Usage: 5659MB Sys Budget: 7489MB Sys Usage: 469MB Demoted: 0MB fps: 31.6
-11:37:50:869 (00014740) > [Render] Quering NVAPI for GPU temperature
-11:37:50:869 (00014740) > [Render] Working set: 3043MB Page file: 12668MB Video Budget: 7112MB Video Usage: 5360MB Sys Budget: 7489MB Sys Usage: 469MB Demoted: 0MB fps: 30.7
-11:38:50:871 (00014740) > [Render] Quering NVAPI for GPU temperature
-11:38:50:871 (00014740) > [Render] Working set: 2897MB Page file: 12940MB Video Budget: 7123MB Video Usage: 5609MB Sys Budget: 7489MB Sys Usage: 469MB Demoted: 0MB fps: 30.4
-11:39:50:863 (00014740) > [Render] Quering NVAPI for GPU temperature
-11:39:50:863 (00014740) > [Render] Working set: 3423MB Page file: 12968MB Video Budget: 7123MB Video Usage: 5637MB Sys Budget: 7489MB Sys Usage: 469MB Demoted: 0MB fps: 29.4
-11:40:50:893 (00014740) > [Render] Quering NVAPI for GPU temperature
-11:40:50:893 (00014740) > [Render] Working set: 3261MB Page file: 12659MB Video Budget: 7274MB Video Usage: 5340MB Sys Budget: 7489MB Sys Usage: 485MB Demoted: 0MB fps: 31.1
-11:41:50:892 (00014740) > [Render] Quering NVAPI for GPU temperature
-11:41:50:892 (00014740) > [Render] Working set: 3380MB Page file: 13080MB Video Budget: 7123MB Video Usage: 5616MB Sys Budget: 7489MB Sys Usage: 469MB Demoted: 0MB fps: 30.3
-11:42:50:893 (00014740) > [Render] Quering NVAPI for GPU temperature
-11:42:50:893 (00014740) > [Render] Working set: 3405MB Page file: 13046MB Video Budget: 7112MB Video Usage: 5634MB Sys Budget: 7489MB Sys Usage: 469MB Demoted: 0MB fps: 30.1
-11:43:50:910 (00014740) > [Render] Quering NVAPI for GPU temperature
-11:43:50:910 (00014740) > [Render] Working set: 3402MB Page file: 12997MB Video Budget: 7123MB Video Usage: 5549MB Sys Budget: 7489MB Sys Usage: 469MB Demoted: 0MB fps: 30.3
-11:44:50:918 (00014740) > [Render] Quering NVAPI for GPU temperature
-11:44:50:918 (00014740) > [Render] Working set: 2975MB Page file: 12683MB Video Budget: 7101MB Video Usage: 5375MB Sys Budget: 7489MB Sys Usage: 469MB Demoted: 0MB fps: 31.2
-11:45:50:912 (00014740) > [Render] Quering NVAPI for GPU temperature
-11:45:50:912 (00014740) > [Render] Working set: 3179MB Page file: 13102MB Video Budget: 7085MB Video Usage: 5613MB Sys Budget: 7489MB Sys Usage: 485MB Demoted: 0MB fps: 32.1
-11:46:50:939 (00014740) > [Render] Quering NVAPI for GPU temperature
-11:46:50:939 (00014740) > [Render] Working set: 3269MB Page file: 12900MB Video Budget: 7123MB Video Usage: 5528MB Sys Budget: 7489MB Sys Usage: 469MB Demoted: 0MB fps: 31.0
-11:47:50:966 (00014740) > [Render] Quering NVAPI for GPU temperature
-11:47:50:966 (00014740) > [Render] Working set: 3346MB Page file: 13013MB Video Budget: 7112MB Video Usage: 5640MB Sys Budget: 7489MB Sys Usage: 469MB Demoted: 0MB fps: 31.8
-11:48:50:965 (00014740) > [Render] Quering NVAPI for GPU temperature
-11:48:50:966 (00014740) > [Render] Working set: 3936MB Page file: 13231MB Video Budget: 7112MB Video Usage: 5670MB Sys Budget: 7489MB Sys Usage: 493MB Demoted: 0MB fps: 30.9
-11:49:50:958 (00014740) > [Render] Quering NVAPI for GPU temperature
-11:49:50:958 (00014740) > [Render] Working set: 3467MB Page file: 13068MB Video Budget: 7123MB Video Usage: 5666MB Sys Budget: 7489MB Sys Usage: 485MB Demoted: 0MB fps: 31.0
-11:50:50:964 (00014740) > [Render] Quering NVAPI for GPU temperature
-11:50:50:964 (00014740) > [Render] Working set: 3027MB Page file: 12657MB Video Budget: 7274MB Video Usage: 5183MB Sys Budget: 7489MB Sys Usage: 549MB Demoted: 0MB fps: 34.9
-11:51:50:963 (00014740) > [Render] Quering NVAPI for GPU temperature
-11:51:50:963 (00014740) > [Render] Working set: 2799MB Page file: 12862MB Video Budget: 7112MB Video Usage: 5500MB Sys Budget: 7489MB Sys Usage: 485MB Demoted: 0MB fps: 32.7
-11:52:50:978 (00014740) > [Render] Quering NVAPI for GPU temperature
-11:52:50:978 (00014740) > [Render] Working set: 2837MB Page file: 12619MB Video Budget: 7274MB Video Usage: 5265MB Sys Budget: 7489MB Sys Usage: 486MB Demoted: 0MB fps: 31.6
-11:53:50:977 (00014740) > [Render] Quering NVAPI for GPU temperature
-11:53:50:977 (00014740) > [Render] Working set: 2842MB Page file: 12541MB Video Budget: 7274MB Video Usage: 5180MB Sys Budget: 7489MB Sys Usage: 486MB Demoted: 0MB fps: 36.8
-11:54:50:982 (00014740) > [Render] Quering NVAPI for GPU temperature
-11:54:50:982 (00014740) > [Render] Working set: 2858MB Page file: 12631MB Video Budget: 7274MB Video Usage: 5272MB Sys Budget: 7489MB Sys Usage: 486MB Demoted: 0MB fps: 36.0
-11:55:50:997 (00014740) > [Render] Quering NVAPI for GPU temperature
-11:55:50:997 (00014740) > [Render] Working set: 2984MB Page file: 13147MB Video Budget: 7103MB Video Usage: 5728MB Sys Budget: 7489MB Sys Usage: 486MB Demoted: 0MB fps: 32.0
-11:56:50:991 (00014740) > [Render] Quering NVAPI for GPU temperature
-11:56:50:992 (00014740) > [Render] Working set: 2730MB Page file: 12668MB Video Budget: 7123MB Video Usage: 5269MB Sys Budget: 7489MB Sys Usage: 487MB Demoted: 0MB fps: 34.6
-11:57:50:993 (00014740) > [Render] Quering NVAPI for GPU temperature
-11:57:50:993 (00014740) > [Render] Working set: 2728MB Page file: 12560MB Video Budget: 7274MB Video Usage: 5236MB Sys Budget: 7489MB Sys Usage: 487MB Demoted: 0MB fps: 36.5
-11:58:51:006 (00014740) > [Render] Quering NVAPI for GPU temperature
-11:58:51:006 (00014740) > [Render] Working set: 2730MB Page file: 12559MB Video Budget: 7274MB Video Usage: 5236MB Sys Budget: 7489MB Sys Usage: 487MB Demoted: 0MB fps: 36.4
-11:59:51:022 (00014740) > [Render] Quering NVAPI for GPU temperature
-11:59:51:023 (00014740) > [Render] Working set: 2822MB Page file: 12836MB Video Budget: 7112MB Video Usage: 5483MB Sys Budget: 7489MB Sys Usage: 487MB Demoted: 0MB fps: 34.6
-12:00:51:017 (00014740) > [Render] Quering NVAPI for GPU temperature
-12:00:51:017 (00014740) > [Render] Working set: 2816MB Page file: 12662MB Video Budget: 7091MB Video Usage: 5321MB Sys Budget: 7489MB Sys Usage: 487MB Demoted: 0MB fps: 33.3
-12:01:51:047 (00014740) > [Render] Quering NVAPI for GPU temperature
-12:01:51:048 (00014740) > [Render] Working set: 2715MB Page file: 13115MB Video Budget: 7091MB Video Usage: 5658MB Sys Budget: 7489MB Sys Usage: 487MB Demoted: 0MB fps: 33.7
-12:02:51:061 (00014740) > [Render] Quering NVAPI for GPU temperature
-12:02:51:061 (00014740) > [Render] Working set: 2732MB Page file: 12822MB Video Budget: 7123MB Video Usage: 5425MB Sys Budget: 7489MB Sys Usage: 487MB Demoted: 0MB fps: 30.8
-12:03:51:072 (00014740) > [Render] Quering NVAPI for GPU temperature
-12:03:51:072 (00014740) > [Render] Working set: 2821MB Page file: 12813MB Video Budget: 7123MB Video Usage: 5431MB Sys Budget: 7489MB Sys Usage: 487MB Demoted: 0MB fps: 31.3
-12:04:51:084 (00014740) > [Render] Quering NVAPI for GPU temperature
-12:04:51:084 (00014740) > [Render] Working set: 2828MB Page file: 12759MB Video Budget: 7112MB Video Usage: 5403MB Sys Budget: 7489MB Sys Usage: 487MB Demoted: 0MB fps: 33.2
-12:05:51:099 (00014740) > [Render] Quering NVAPI for GPU temperature
-12:05:51:099 (00014740) > [Render] Working set: 2818MB Page file: 12625MB Video Budget: 7274MB Video Usage: 5280MB Sys Budget: 7489MB Sys Usage: 487MB Demoted: 0MB fps: 32.1
-12:06:51:109 (00014740) > [Render] Quering NVAPI for GPU temperature
-12:06:51:109 (00014740) > [Render] Working set: 2703MB Page file: 12803MB Video Budget: 7274MB Video Usage: 5364MB Sys Budget: 7489MB Sys Usage: 487MB Demoted: 0MB fps: 32.3
-12:07:51:096 (00014740) > [Render] Quering NVAPI for GPU temperature
-12:07:51:097 (00014740) > [Render] Working set: 2569MB Page file: 12716MB Video Budget: 7274MB Video Usage: 5354MB Sys Budget: 7489MB Sys Usage: 487MB Demoted: 0MB fps: 32.0
-12:08:51:119 (00014740) > [Render] Quering NVAPI for GPU temperature
-12:08:51:119 (00014740) > [Render] Working set: 2778MB Page file: 13296MB Video Budget: 7112MB Video Usage: 5792MB Sys Budget: 7489MB Sys Usage: 488MB Demoted: 0MB fps: 32.3
-12:09:51:129 (00014740) > [Render] Quering NVAPI for GPU temperature
-12:09:51:129 (00014740) > [Render] Working set: 2732MB Page file: 12775MB Video Budget: 7274MB Video Usage: 5378MB Sys Budget: 7489MB Sys Usage: 488MB Demoted: 0MB fps: 31.9
-12:10:51:135 (00014740) > [Render] Quering NVAPI for GPU temperature
-12:10:51:136 (00014740) > [Render] Working set: 2811MB Page file: 12717MB Video Budget: 7274MB Video Usage: 5263MB Sys Budget: 7489MB Sys Usage: 552MB Demoted: 0MB fps: 33.3
-12:11:51:154 (00014740) > [Render] Quering NVAPI for GPU temperature
-12:11:51:154 (00014740) > [Render] Working set: 3228MB Page file: 13240MB Video Budget: 7101MB Video Usage: 5662MB Sys Budget: 7489MB Sys Usage: 488MB Demoted: 0MB fps: 34.7
-12:12:51:150 (00014740) > [Render] Quering NVAPI for GPU temperature
-12:12:51:150 (00014740) > [Render] Working set: 3269MB Page file: 13293MB Video Budget: 7123MB Video Usage: 5867MB Sys Budget: 7489MB Sys Usage: 489MB Demoted: 0MB fps: 32.8
-12:13:51:151 (00014740) > [Render] Quering NVAPI for GPU temperature
-12:13:51:151 (00014740) > [Render] Working set: 2957MB Page file: 13024MB Video Budget: 7123MB Video Usage: 5601MB Sys Budget: 7489MB Sys Usage: 489MB Demoted: 0MB fps: 32.4
-12:14:51:166 (00014740) > [Render] Quering NVAPI for GPU temperature
-12:14:51:166 (00014740) > [Render] Working set: 3119MB Page file: 13474MB Video Budget: 7112MB Video Usage: 5791MB Sys Budget: 7489MB Sys Usage: 507MB Demoted: 0MB fps: 30.9
-12:15:51:181 (00014740) > [Render] Quering NVAPI for GPU temperature
-12:15:51:181 (00014740) > [Render] Working set: 3042MB Page file: 13001MB Video Budget: 7123MB Video Usage: 5543MB Sys Budget: 7489MB Sys Usage: 491MB Demoted: 0MB fps: 32.0
-12:16:51:202 (00014740) > [Render] Quering NVAPI for GPU temperature
-12:16:51:202 (00014740) > [Render] Working set: 3021MB Page file: 13089MB Video Budget: 7119MB Video Usage: 5658MB Sys Budget: 7489MB Sys Usage: 491MB Demoted: 0MB fps: 32.4
-12:17:51:202 (00014740) > [Render] Quering NVAPI for GPU temperature
-12:17:51:202 (00014740) > [Render] Working set: 2953MB Page file: 12799MB Video Budget: 7112MB Video Usage: 5418MB Sys Budget: 7489MB Sys Usage: 491MB Demoted: 0MB fps: 31.3
-12:18:51:190 (00014740) > [Render] Quering NVAPI for GPU temperature
-12:18:51:190 (00014740) > [Render] Working set: 2965MB Page file: 13557MB Video Budget: 7123MB Video Usage: 5993MB Sys Budget: 7489MB Sys Usage: 492MB Demoted: 0MB fps: 29.7
-12:19:51:210 (00014740) > [Render] Quering NVAPI for GPU temperature
-12:19:51:210 (00014740) > [Render] Working set: 3358MB Page file: 13697MB Video Budget: 7119MB Video Usage: 5967MB Sys Budget: 7489MB Sys Usage: 492MB Demoted: 0MB fps: 29.1
-12:20:51:227 (00014740) > [Render] Quering NVAPI for GPU temperature
-12:20:51:228 (00014740) > [Render] Working set: 3164MB Page file: 13505MB Video Budget: 7123MB Video Usage: 5861MB Sys Budget: 7489MB Sys Usage: 492MB Demoted: 0MB fps: 31.2
-12:21:51:242 (00014740) > [Render] Quering NVAPI for GPU temperature
-12:21:51:242 (00014740) > [Render] Working set: 3099MB Page file: 13512MB Video Budget: 7112MB Video Usage: 5973MB Sys Budget: 7489MB Sys Usage: 500MB Demoted: 0MB fps: 31.9
-12:22:51:243 (00014740) > [Render] Quering NVAPI for GPU temperature
-12:22:51:243 (00014740) > [Render] Working set: 3166MB Page file: 13509MB Video Budget: 7123MB Video Usage: 5771MB Sys Budget: 7489MB Sys Usage: 492MB Demoted: 0MB fps: 32.2
-12:23:51:243 (00014740) > [Render] Quering NVAPI for GPU temperature
-12:23:51:243 (00014740) > [Render] Working set: 3072MB Page file: 13278MB Video Budget: 7123MB Video Usage: 5831MB Sys Budget: 7489MB Sys Usage: 492MB Demoted: 0MB fps: 31.6
-12:24:51:268 (00014740) > [Render] Quering NVAPI for GPU temperature
-12:24:51:269 (00014740) > [Render] Working set: 3645MB Page file: 13611MB Video Budget: 7112MB Video Usage: 5942MB Sys Budget: 7489MB Sys Usage: 500MB Demoted: 0MB fps: 28.7
-12:25:51:293 (00014740) > [Render] Quering NVAPI for GPU temperature
-12:25:51:293 (00014740) > [Render] Working set: 3518MB Page file: 13282MB Video Budget: 7123MB Video Usage: 5798MB Sys Budget: 7489MB Sys Usage: 508MB Demoted: 0MB fps: 28.1
-12:26:51:311 (00014740) > [Render] Quering NVAPI for GPU temperature
-12:26:51:311 (00014740) > [Render] Working set: 3245MB Page file: 13415MB Video Budget: 7110MB Video Usage: 5873MB Sys Budget: 7489MB Sys Usage: 492MB Demoted: 0MB fps: 29.6
-12:27:51:303 (00014740) > [Render] Quering NVAPI for GPU temperature
-12:27:51:303 (00014740) > [Render] Working set: 3208MB Page file: 13187MB Video Budget: 7123MB Video Usage: 5694MB Sys Budget: 7489MB Sys Usage: 492MB Demoted: 0MB fps: 33.6
-12:28:51:313 (00014740) > [Render] Quering NVAPI for GPU temperature
-12:28:51:313 (00014740) > [Render] Working set: 3423MB Page file: 13620MB Video Budget: 7112MB Video Usage: 5964MB Sys Budget: 7489MB Sys Usage: 492MB Demoted: 0MB fps: 31.4
-12:29:51:327 (00014740) > [Render] Quering NVAPI for GPU temperature
-12:29:51:328 (00014740) > [Render] Working set: 3480MB Page file: 13518MB Video Budget: 7123MB Video Usage: 5964MB Sys Budget: 7489MB Sys Usage: 493MB Demoted: 0MB fps: 29.8
-12:30:51:329 (00014740) > [Render] Quering NVAPI for GPU temperature
-12:30:51:329 (00014740) > [Render] Working set: 3347MB Page file: 13631MB Video Budget: 7089MB Video Usage: 5964MB Sys Budget: 7489MB Sys Usage: 493MB Demoted: 0MB fps: 32.9
-12:31:51:355 (00014740) > [Render] Quering NVAPI for GPU temperature
-12:31:51:355 (00014740) > [Render] Working set: 3125MB Page file: 13605MB Video Budget: 7076MB Video Usage: 5956MB Sys Budget: 7489MB Sys Usage: 542MB Demoted: 0MB fps: 30.5
-12:32:51:350 (00014740) > [Render] Quering NVAPI for GPU temperature
-12:32:51:350 (00014740) > [Render] Working set: 3393MB Page file: 13625MB Video Budget: 7112MB Video Usage: 5962MB Sys Budget: 7489MB Sys Usage: 494MB Demoted: 0MB fps: 29.5
-12:33:51:354 (00014740) > [Render] Quering NVAPI for GPU temperature
-12:33:51:354 (00014740) > [Render] Working set: 3316MB Page file: 13454MB Video Budget: 7112MB Video Usage: 5900MB Sys Budget: 7489MB Sys Usage: 494MB Demoted: 0MB fps: 31.7
-12:34:51:375 (00014740) > [Render] Quering NVAPI for GPU temperature
-12:34:51:375 (00014740) > [Render] Working set: 3525MB Page file: 13435MB Video Budget: 7112MB Video Usage: 5939MB Sys Budget: 7489MB Sys Usage: 494MB Demoted: 0MB fps: 30.0
-12:35:51:388 (00014740) > [Render] Quering NVAPI for GPU temperature
-12:35:51:388 (00014740) > [Render] Working set: 3674MB Page file: 13474MB Video Budget: 7123MB Video Usage: 5917MB Sys Budget: 7489MB Sys Usage: 494MB Demoted: 0MB fps: 32.1
-12:36:51:412 (00014740) > [Render] Quering NVAPI for GPU temperature
-12:36:51:413 (00014740) > [Render] Working set: 3256MB Page file: 12957MB Video Budget: 7119MB Video Usage: 5506MB Sys Budget: 7489MB Sys Usage: 494MB Demoted: 0MB fps: 33.2
-12:37:51:433 (00014740) > [Render] Quering NVAPI for GPU temperature
-12:37:51:433 (00014740) > [Render] Working set: 2991MB Page file: 13441MB Video Budget: 7123MB Video Usage: 5761MB Sys Budget: 7489MB Sys Usage: 494MB Demoted: 0MB fps: 33.8
-12:38:51:439 (00014740) > [Render] Quering NVAPI for GPU temperature
-12:38:51:439 (00014740) > [Render] Working set: 2958MB Page file: 13026MB Video Budget: 7123MB Video Usage: 5491MB Sys Budget: 7489MB Sys Usage: 558MB Demoted: 0MB fps: 34.6
-12:39:51:439 (00014740) > [Render] Quering NVAPI for GPU temperature
-12:39:51:439 (00014740) > [Render] Working set: 2965MB Page file: 13010MB Video Budget: 7123MB Video Usage: 5476MB Sys Budget: 7489MB Sys Usage: 558MB Demoted: 0MB fps: 37.5
-12:40:51:454 (00014740) > [Render] Quering NVAPI for GPU temperature
-12:40:51:454 (00014740) > [Render] Working set: 2943MB Page file: 13217MB Video Budget: 7112MB Video Usage: 5706MB Sys Budget: 7489MB Sys Usage: 494MB Demoted: 0MB fps: 36.4
-12:41:51:479 (00014740) > [Render] Quering NVAPI for GPU temperature
-12:41:51:479 (00014740) > [Render] Working set: 2938MB Page file: 13223MB Video Budget: 7112MB Video Usage: 5646MB Sys Budget: 7489MB Sys Usage: 558MB Demoted: 0MB fps: 33.5
-12:42:51:495 (00014740) > [Render] Quering NVAPI for GPU temperature
-12:42:51:495 (00014740) > [Render] Working set: 2924MB Page file: 12982MB Video Budget: 7112MB Video Usage: 5500MB Sys Budget: 7489MB Sys Usage: 494MB Demoted: 0MB fps: 35.2
-12:43:51:506 (00014740) > [Render] Quering NVAPI for GPU temperature
-12:43:51:506 (00014740) > [Render] Working set: 2996MB Page file: 13331MB Video Budget: 7123MB Video Usage: 5763MB Sys Budget: 7489MB Sys Usage: 495MB Demoted: 0MB fps: 33.2
-12:44:51:527 (00014740) > [Render] Quering NVAPI for GPU temperature
-12:44:51:527 (00014740) > [Render] Working set: 3022MB Page file: 13374MB Video Budget: 7123MB Video Usage: 5763MB Sys Budget: 7489MB Sys Usage: 495MB Demoted: 0MB fps: 33.0
-12:45:51:545 (00014740) > [Render] Quering NVAPI for GPU temperature
-12:45:51:545 (00014740) > [Render] Working set: 3042MB Page file: 13322MB Video Budget: 7112MB Video Usage: 5628MB Sys Budget: 7489MB Sys Usage: 495MB Demoted: 0MB fps: 34.0
-12:46:51:536 (00014740) > [Render] Quering NVAPI for GPU temperature
-12:46:51:536 (00014740) > [Render] Working set: 3026MB Page file: 13516MB Video Budget: 7108MB Video Usage: 5914MB Sys Budget: 7489MB Sys Usage: 495MB Demoted: 0MB fps: 33.7
-12:47:51:547 (00014740) > [Render] Quering NVAPI for GPU temperature
-12:47:51:547 (00014740) > [Render] Working set: 3180MB Page file: 13731MB Video Budget: 7123MB Video Usage: 6010MB Sys Budget: 7489MB Sys Usage: 495MB Demoted: 0MB fps: 32.8
-12:48:51:545 (00014740) > [Render] Quering NVAPI for GPU temperature
-12:48:51:545 (00014740) > [Render] Working set: 3024MB Page file: 13335MB Video Budget: 7123MB Video Usage: 5685MB Sys Budget: 7489MB Sys Usage: 495MB Demoted: 0MB fps: 32.0
-12:49:51:534 (00014740) > [Render] Quering NVAPI for GPU temperature
-12:49:51:534 (00014740) > [Render] Working set: 3007MB Page file: 13655MB Video Budget: 7123MB Video Usage: 5978MB Sys Budget: 7489MB Sys Usage: 495MB Demoted: 0MB fps: 32.9
-12:50:51:534 (00014740) > [Render] Quering NVAPI for GPU temperature
-12:50:51:534 (00014740) > [Render] Working set: 3025MB Page file: 13320MB Video Budget: 7112MB Video Usage: 5763MB Sys Budget: 7489MB Sys Usage: 495MB Demoted: 0MB fps: 32.1
-12:51:51:556 (00014740) > [Render] Quering NVAPI for GPU temperature
-12:51:51:556 (00014740) > [Render] Working set: 3023MB Page file: 13616MB Video Budget: 7112MB Video Usage: 6001MB Sys Budget: 7489MB Sys Usage: 495MB Demoted: 0MB fps: 32.4
-12:52:51:573 (00014740) > [Render] Quering NVAPI for GPU temperature
-12:52:51:573 (00014740) > [Render] Working set: 3199MB Page file: 13177MB Video Budget: 7112MB Video Usage: 5625MB Sys Budget: 7489MB Sys Usage: 495MB Demoted: 0MB fps: 32.5
-12:53:51:566 (00014740) > [Render] Quering NVAPI for GPU temperature
-12:53:51:566 (00014740) > [Render] Working set: 3115MB Page file: 13310MB Video Budget: 7123MB Video Usage: 5768MB Sys Budget: 7489MB Sys Usage: 495MB Demoted: 0MB fps: 32.2
-12:54:51:564 (00014740) > [Render] Quering NVAPI for GPU temperature
-12:54:51:564 (00014740) > [Render] Working set: 2973MB Page file: 13593MB Video Budget: 7123MB Video Usage: 5989MB Sys Budget: 7489MB Sys Usage: 511MB Demoted: 0MB fps: 33.3
-12:55:51:589 (00014740) > [Render] Quering NVAPI for GPU temperature
-12:55:51:589 (00014740) > [Render] Working set: 3400MB Page file: 13645MB Video Budget: 7112MB Video Usage: 5902MB Sys Budget: 7489MB Sys Usage: 495MB Demoted: 0MB fps: 32.2
-12:56:51:600 (00014740) > [Render] Quering NVAPI for GPU temperature
-12:56:51:600 (00014740) > [Render] Working set: 3690MB Page file: 13716MB Video Budget: 7108MB Video Usage: 5952MB Sys Budget: 7489MB Sys Usage: 495MB Demoted: 0MB fps: 32.1
-12:57:51:597 (00014740) > [Render] Quering NVAPI for GPU temperature
-12:57:51:597 (00014740) > [Render] Working set: 3570MB Page file: 13448MB Video Budget: 7123MB Video Usage: 5877MB Sys Budget: 7489MB Sys Usage: 495MB Demoted: 0MB fps: 31.6
-12:58:51:617 (00014740) > [Render] Quering NVAPI for GPU temperature
-12:58:51:617 (00014740) > [Render] Working set: 3718MB Page file: 13540MB Video Budget: 7123MB Video Usage: 5893MB Sys Budget: 7489MB Sys Usage: 495MB Demoted: 0MB fps: 31.8
-12:59:51:612 (00014740) > [Render] Quering NVAPI for GPU temperature
-12:59:51:612 (00014740) > [Render] Working set: 3278MB Page file: 13318MB Video Budget: 7107MB Video Usage: 5799MB Sys Budget: 7489MB Sys Usage: 495MB Demoted: 0MB fps: 33.0
-13:00:51:626 (00014740) > [Render] Quering NVAPI for GPU temperature
-13:00:51:626 (00014740) > [Render] Working set: 3106MB Page file: 13601MB Video Budget: 7089MB Video Usage: 5958MB Sys Budget: 7489MB Sys Usage: 559MB Demoted: 0MB fps: 32.4
-13:01:51:649 (00014740) > [Render] Quering NVAPI for GPU temperature
-13:01:51:649 (00014740) > [Render] Working set: 3002MB Page file: 13462MB Video Budget: 7079MB Video Usage: 5840MB Sys Budget: 7489MB Sys Usage: 495MB Demoted: 0MB fps: 32.6
-13:02:51:653 (00014740) > [Render] Quering NVAPI for GPU temperature
-13:02:51:653 (00014740) > [Render] Working set: 3072MB Page file: 13703MB Video Budget: 7123MB Video Usage: 6026MB Sys Budget: 7489MB Sys Usage: 495MB Demoted: 0MB fps: 32.4
-13:03:51:645 (00014740) > [Render] Quering NVAPI for GPU temperature
-13:03:51:645 (00014740) > [Render] Working set: 3037MB Page file: 13465MB Video Budget: 7123MB Video Usage: 5847MB Sys Budget: 7489MB Sys Usage: 495MB Demoted: 0MB fps: 31.4
-13:04:51:663 (00014740) > [Render] Quering NVAPI for GPU temperature
-13:04:51:663 (00014740) > [Render] Working set: 2986MB Page file: 13050MB Video Budget: 7112MB Video Usage: 5516MB Sys Budget: 7489MB Sys Usage: 495MB Demoted: 0MB fps: 33.5
-13:05:51:667 (00014740) > [Render] Quering NVAPI for GPU temperature
-13:05:51:667 (00014740) > [Render] Working set: 2916MB Page file: 13399MB Video Budget: 7123MB Video Usage: 5804MB Sys Budget: 7489MB Sys Usage: 495MB Demoted: 0MB fps: 35.1
-13:06:51:662 (00014740) > [Render] Quering NVAPI for GPU temperature
-13:06:51:662 (00014740) > [Render] Working set: 2913MB Page file: 13451MB Video Budget: 7090MB Video Usage: 5646MB Sys Budget: 7489MB Sys Usage: 559MB Demoted: 0MB fps: 34.2
-13:07:51:661 (00014740) > [Render] Quering NVAPI for GPU temperature
-13:07:51:662 (00014740) > [Render] Working set: 2876MB Page file: 13158MB Video Budget: 7123MB Video Usage: 5537MB Sys Budget: 7489MB Sys Usage: 559MB Demoted: 0MB fps: 37.5
-13:08:51:661 (00014740) > [Render] Quering NVAPI for GPU temperature
-13:08:51:661 (00014740) > [Render] Working set: 2876MB Page file: 13158MB Video Budget: 7123MB Video Usage: 5537MB Sys Budget: 7489MB Sys Usage: 559MB Demoted: 0MB fps: 37.5
-13:09:51:662 (00014740) > [Render] Quering NVAPI for GPU temperature
-13:09:51:662 (00014740) > [Render] Working set: 2876MB Page file: 13157MB Video Budget: 7123MB Video Usage: 5537MB Sys Budget: 7489MB Sys Usage: 559MB Demoted: 0MB fps: 37.5
-13:10:51:661 (00014740) > [Render] Quering NVAPI for GPU temperature
-13:10:51:661 (00014740) > [Render] Working set: 2854MB Page file: 13157MB Video Budget: 7112MB Video Usage: 5537MB Sys Budget: 7489MB Sys Usage: 559MB Demoted: 0MB fps: 37.5
-13:11:40:372 (00017784) > [Input] XInput controller disconnected. index: 0
-13:11:40:372 (00017784) > [Input] Gamepads connected: 1 -> 0
-13:11:40:372 (00017784) > [Input] Gamepad for main player: -1
-13:11:51:661 (00014740) > [Render] Quering NVAPI for GPU temperature
-13:11:51:662 (00014740) > [Render] Working set: 2668MB Page file: 13157MB Video Budget: 7066MB Video Usage: 5537MB Sys Budget: 7489MB Sys Usage: 559MB Demoted: 0MB fps: 37.5
-13:12:51:661 (00014740) > [Render] Quering NVAPI for GPU temperature
-13:12:51:661 (00014740) > [Render] Working set: 2668MB Page file: 13157MB Video Budget: 7080MB Video Usage: 5537MB Sys Budget: 7489MB Sys Usage: 559MB Demoted: 0MB fps: 37.5
-13:13:51:661 (00014740) > [Render] Quering NVAPI for GPU temperature
-13:13:51:661 (00014740) > [Render] Working set: 2669MB Page file: 13157MB Video Budget: 7080MB Video Usage: 5537MB Sys Budget: 7489MB Sys Usage: 559MB Demoted: 0MB fps: 37.5
-13:14:51:661 (00014740) > [Render] Quering NVAPI for GPU temperature
-13:14:51:661 (00014740) > [Render] Working set: 2669MB Page file: 13158MB Video Budget: 7112MB Video Usage: 5537MB Sys Budget: 7489MB Sys Usage: 559MB Demoted: 0MB fps: 37.5
-13:15:51:662 (00014740) > [Render] Quering NVAPI for GPU temperature
-13:15:51:662 (00014740) > [Render] Working set: 2669MB Page file: 13157MB Video Budget: 7108MB Video Usage: 5537MB Sys Budget: 7489MB Sys Usage: 559MB Demoted: 0MB fps: 37.5
-13:16:51:661 (00014740) > [Render] Quering NVAPI for GPU temperature
-13:16:51:661 (00014740) > [Render] Working set: 2531MB Page file: 13157MB Video Budget: 7084MB Video Usage: 5537MB Sys Budget: 7489MB Sys Usage: 559MB Demoted: 0MB fps: 37.5
-13:17:51:661 (00014740) > [Render] Quering NVAPI for GPU temperature
-13:17:51:661 (00014740) > [Render] Working set: 2531MB Page file: 13157MB Video Budget: 7112MB Video Usage: 5537MB Sys Budget: 7489MB Sys Usage: 559MB Demoted: 0MB fps: 37.5
-13:18:51:661 (00014740) > [Render] Quering NVAPI for GPU temperature
-13:18:51:661 (00014740) > [Render] Working set: 2531MB Page file: 13157MB Video Budget: 7112MB Video Usage: 5537MB Sys Budget: 7489MB Sys Usage: 559MB Demoted: 0MB fps: 37.5
-13:19:51:660 (00014740) > [Render] Quering NVAPI for GPU temperature
-13:19:51:660 (00014740) > [Render] Working set: 2531MB Page file: 13157MB Video Budget: 7112MB Video Usage: 5537MB Sys Budget: 7489MB Sys Usage: 559MB Demoted: 0MB fps: 37.5
-13:20:51:661 (00014740) > [Render] Quering NVAPI for GPU temperature
-13:20:51:661 (00014740) > [Render] Working set: 2531MB Page file: 13157MB Video Budget: 7100MB Video Usage: 5537MB Sys Budget: 7489MB Sys Usage: 559MB Demoted: 0MB fps: 37.5
-13:21:22:514 (00017784) > [Input] XInput controller connected. index: 0
-13:21:22:515 (00017784) > [Input] Gamepads connected: 0 -> 1
-13:21:22:515 (00017784) > [Input] Gamepad for main player: 0
-13:21:51:659 (00014740) > [Render] Quering NVAPI for GPU temperature
-13:21:51:659 (00014740) > [Render] Working set: 2444MB Page file: 13253MB Video Budget: 7071MB Video Usage: 5616MB Sys Budget: 7489MB Sys Usage: 559MB Demoted: 0MB fps: 37.0
-13:22:51:663 (00014740) > [Render] Quering NVAPI for GPU temperature
-13:22:51:663 (00014740) > [Render] Working set: 2477MB Page file: 13471MB Video Budget: 7091MB Video Usage: 5829MB Sys Budget: 7489MB Sys Usage: 495MB Demoted: 0MB fps: 34.5
-13:23:51:685 (00014740) > [Render] Quering NVAPI for GPU temperature
-13:23:51:685 (00014740) > [Render] Working set: 2469MB Page file: 13364MB Video Budget: 7083MB Video Usage: 5761MB Sys Budget: 7489MB Sys Usage: 495MB Demoted: 0MB fps: 32.4
-13:24:51:690 (00014740) > [Render] Quering NVAPI for GPU temperature
-13:24:51:690 (00014740) > [Render] Working set: 2567MB Page file: 13404MB Video Budget: 7112MB Video Usage: 5847MB Sys Budget: 7489MB Sys Usage: 504MB Demoted: 0MB fps: 33.0
-13:25:51:717 (00014740) > [Render] Quering NVAPI for GPU temperature
-13:25:51:717 (00014740) > [Render] Working set: 2772MB Page file: 13558MB Video Budget: 7123MB Video Usage: 5977MB Sys Budget: 7489MB Sys Usage: 496MB Demoted: 0MB fps: 31.6
-13:26:51:706 (00014740) > [Render] Quering NVAPI for GPU temperature
-13:26:51:706 (00014740) > [Render] Working set: 2701MB Page file: 13384MB Video Budget: 7112MB Video Usage: 5822MB Sys Budget: 7489MB Sys Usage: 496MB Demoted: 0MB fps: 30.4
-13:27:51:732 (00014740) > [Render] Quering NVAPI for GPU temperature
-13:27:51:732 (00014740) > [Render] Working set: 2697MB Page file: 13582MB Video Budget: 7112MB Video Usage: 5985MB Sys Budget: 7489MB Sys Usage: 496MB Demoted: 0MB fps: 32.2
-13:28:51:733 (00014740) > [Render] Quering NVAPI for GPU temperature
-13:28:51:734 (00014740) > [Render] Working set: 2921MB Page file: 13626MB Video Budget: 7123MB Video Usage: 5801MB Sys Budget: 7489MB Sys Usage: 497MB Demoted: 0MB fps: 29.5
-13:29:51:720 (00014740) > [Render] Quering NVAPI for GPU temperature
-13:29:51:720 (00014740) > [Render] Working set: 3448MB Page file: 13692MB Video Budget: 7123MB Video Usage: 5957MB Sys Budget: 7489MB Sys Usage: 497MB Demoted: 0MB fps: 29.7
-13:30:51:745 (00014740) > [Render] Quering NVAPI for GPU temperature
-13:30:51:745 (00014740) > [Render] Working set: 3620MB Page file: 13655MB Video Budget: 7089MB Video Usage: 5915MB Sys Budget: 7489MB Sys Usage: 513MB Demoted: 0MB fps: 30.9
-13:31:51:753 (00014740) > [Render] Quering NVAPI for GPU temperature
-13:31:51:753 (00014740) > [Render] Working set: 3434MB Page file: 13675MB Video Budget: 7080MB Video Usage: 5943MB Sys Budget: 7489MB Sys Usage: 505MB Demoted: 0MB fps: 31.1
-13:32:51:782 (00014740) > [Render] Quering NVAPI for GPU temperature
-13:32:51:782 (00014740) > [Render] Working set: 3688MB Page file: 13756MB Video Budget: 7112MB Video Usage: 6001MB Sys Budget: 7489MB Sys Usage: 513MB Demoted: 0MB fps: 31.8
-13:33:51:816 (00014740) > [Render] Quering NVAPI for GPU temperature
-13:33:51:816 (00014740) > [Render] Working set: 3615MB Page file: 13683MB Video Budget: 7123MB Video Usage: 5991MB Sys Budget: 7489MB Sys Usage: 513MB Demoted: 0MB fps: 30.4
-13:34:51:847 (00014740) > [Render] Quering NVAPI for GPU temperature
-13:34:51:847 (00014740) > [Render] Working set: 3350MB Page file: 13665MB Video Budget: 7112MB Video Usage: 5952MB Sys Budget: 7489MB Sys Usage: 497MB Demoted: 0MB fps: 31.3
-13:35:51:874 (00014740) > [Render] Quering NVAPI for GPU temperature
-13:35:51:875 (00014740) > [Render] Working set: 3326MB Page file: 13722MB Video Budget: 7112MB Video Usage: 5857MB Sys Budget: 7489MB Sys Usage: 497MB Demoted: 0MB fps: 32.5
-13:36:51:886 (00014740) > [Render] Quering NVAPI for GPU temperature
-13:36:51:886 (00014740) > [Render] Working set: 3353MB Page file: 13506MB Video Budget: 7112MB Video Usage: 5899MB Sys Budget: 7489MB Sys Usage: 497MB Demoted: 0MB fps: 32.5
-13:37:51:897 (00014740) > [Render] Quering NVAPI for GPU temperature
-13:37:51:897 (00014740) > [Render] Working set: 3611MB Page file: 13759MB Video Budget: 7108MB Video Usage: 6016MB Sys Budget: 7489MB Sys Usage: 513MB Demoted: 0MB fps: 31.8
-13:38:51:903 (00014740) > [Render] Quering NVAPI for GPU temperature
-13:38:51:903 (00014740) > [Render] Working set: 3557MB Page file: 13705MB Video Budget: 7112MB Video Usage: 6008MB Sys Budget: 7489MB Sys Usage: 497MB Demoted: 0MB fps: 33.1
-13:39:51:915 (00014740) > [Render] Quering NVAPI for GPU temperature
-13:39:51:916 (00014740) > [Render] Working set: 3411MB Page file: 13797MB Video Budget: 7112MB Video Usage: 5978MB Sys Budget: 7489MB Sys Usage: 497MB Demoted: 0MB fps: 31.3
-13:40:51:913 (00014740) > [Render] Quering NVAPI for GPU temperature
-13:40:51:913 (00014740) > [Render] Working set: 3015MB Page file: 13665MB Video Budget: 7123MB Video Usage: 5954MB Sys Budget: 7489MB Sys Usage: 529MB Demoted: 0MB fps: 33.0
-13:41:51:925 (00014740) > [Render] Quering NVAPI for GPU temperature
-13:41:51:926 (00014740) > [Render] Working set: 2993MB Page file: 13686MB Video Budget: 7112MB Video Usage: 5977MB Sys Budget: 7489MB Sys Usage: 497MB Demoted: 0MB fps: 31.9
-13:42:51:927 (00014740) > [Render] Quering NVAPI for GPU temperature
-13:42:51:927 (00014740) > [Render] Working set: 3250MB Page file: 13808MB Video Budget: 7112MB Video Usage: 5822MB Sys Budget: 7489MB Sys Usage: 657MB Demoted: 0MB fps: 33.7
-13:43:51:939 (00014740) > [Render] Quering NVAPI for GPU temperature
-13:43:51:939 (00014740) > [Render] Working set: 3295MB Page file: 13741MB Video Budget: 7112MB Video Usage: 5960MB Sys Budget: 7489MB Sys Usage: 497MB Demoted: 0MB fps: 31.8
-13:44:51:951 (00014740) > [Render] Quering NVAPI for GPU temperature
-13:44:51:951 (00014740) > [Render] Working set: 3245MB Page file: 13654MB Video Budget: 7112MB Video Usage: 5978MB Sys Budget: 7489MB Sys Usage: 497MB Demoted: 0MB fps: 31.6
-13:45:51:958 (00014740) > [Render] Quering NVAPI for GPU temperature
-13:45:51:958 (00014740) > [Render] Working set: 3135MB Page file: 13710MB Video Budget: 7112MB Video Usage: 5986MB Sys Budget: 7489MB Sys Usage: 497MB Demoted: 0MB fps: 32.2
-13:46:51:964 (00014740) > [Render] Quering NVAPI for GPU temperature
-13:46:51:964 (00014740) > [Render] Working set: 3003MB Page file: 13495MB Video Budget: 7112MB Video Usage: 5815MB Sys Budget: 7489MB Sys Usage: 505MB Demoted: 0MB fps: 31.4
-13:47:51:954 (00014740) > [Render] Quering NVAPI for GPU temperature
-13:47:51:954 (00014740) > [Render] Working set: 2769MB Page file: 13627MB Video Budget: 7108MB Video Usage: 5951MB Sys Budget: 7489MB Sys Usage: 505MB Demoted: 0MB fps: 32.2
-13:48:51:956 (00014740) > [Render] Quering NVAPI for GPU temperature
-13:48:51:956 (00014740) > [Render] Working set: 2936MB Page file: 13727MB Video Budget: 7112MB Video Usage: 5977MB Sys Budget: 7489MB Sys Usage: 505MB Demoted: 0MB fps: 31.6
-13:49:51:964 (00014740) > [Render] Quering NVAPI for GPU temperature
-13:49:51:964 (00014740) > [Render] Working set: 3284MB Page file: 13720MB Video Budget: 7112MB Video Usage: 5980MB Sys Budget: 7489MB Sys Usage: 601MB Demoted: 0MB fps: 32.2
-13:50:51:980 (00014740) > [Render] Quering NVAPI for GPU temperature
-13:50:51:980 (00014740) > [Render] Working set: 3176MB Page file: 13736MB Video Budget: 7123MB Video Usage: 6044MB Sys Budget: 7489MB Sys Usage: 505MB Demoted: 0MB fps: 31.6
-13:51:51:990 (00014740) > [Render] Quering NVAPI for GPU temperature
-13:51:51:990 (00014740) > [Render] Working set: 3166MB Page file: 13584MB Video Budget: 7123MB Video Usage: 5954MB Sys Budget: 7489MB Sys Usage: 505MB Demoted: 0MB fps: 31.5
-13:52:52:003 (00014740) > [Render] Quering NVAPI for GPU temperature
-13:52:52:003 (00014740) > [Render] Working set: 3350MB Page file: 13947MB Video Budget: 7112MB Video Usage: 6066MB Sys Budget: 7489MB Sys Usage: 593MB Demoted: 0MB fps: 31.9
-13:53:52:018 (00014740) > [Render] Quering NVAPI for GPU temperature
-13:53:52:018 (00014740) > [Render] Working set: 2824MB Page file: 13470MB Video Budget: 7112MB Video Usage: 5816MB Sys Budget: 7489MB Sys Usage: 505MB Demoted: 0MB fps: 32.5
-13:54:52:017 (00014740) > [Render] Quering NVAPI for GPU temperature
-13:54:52:017 (00014740) > [Render] Working set: 2946MB Page file: 13846MB Video Budget: 7123MB Video Usage: 6017MB Sys Budget: 7489MB Sys Usage: 521MB Demoted: 0MB fps: 31.4
-13:55:52:018 (00014740) > [Render] Quering NVAPI for GPU temperature
-13:55:52:018 (00014740) > [Render] Working set: 3022MB Page file: 13414MB Video Budget: 7123MB Video Usage: 5677MB Sys Budget: 7489MB Sys Usage: 569MB Demoted: 0MB fps: 31.6
-13:56:52:033 (00014740) > [Render] Quering NVAPI for GPU temperature
-13:56:52:033 (00014740) > [Render] Working set: 2937MB Page file: 13421MB Video Budget: 7123MB Video Usage: 5785MB Sys Budget: 7489MB Sys Usage: 505MB Demoted: 0MB fps: 31.4
-13:57:52:057 (00014740) > [Render] Quering NVAPI for GPU temperature
-13:57:52:058 (00014740) > [Render] Working set: 2790MB Page file: 13199MB Video Budget: 7119MB Video Usage: 5617MB Sys Budget: 7489MB Sys Usage: 505MB Demoted: 0MB fps: 30.9
-13:58:52:073 (00014740) > [Render] Quering NVAPI for GPU temperature
-13:58:52:073 (00014740) > [Render] Working set: 2710MB Page file: 13333MB Video Budget: 7123MB Video Usage: 5729MB Sys Budget: 7489MB Sys Usage: 505MB Demoted: 0MB fps: 31.1
-13:59:52:082 (00014740) > [Render] Quering NVAPI for GPU temperature
-13:59:52:082 (00014740) > [Render] Working set: 2766MB Page file: 13759MB Video Budget: 7123MB Video Usage: 6001MB Sys Budget: 7489MB Sys Usage: 569MB Demoted: 0MB fps: 31.6
-14:00:52:095 (00014740) > [Render] Quering NVAPI for GPU temperature
-14:00:52:095 (00014740) > [Render] Working set: 2804MB Page file: 13231MB Video Budget: 7089MB Video Usage: 5550MB Sys Budget: 7489MB Sys Usage: 569MB Demoted: 0MB fps: 36.9
-14:01:52:096 (00014740) > [Render] Quering NVAPI for GPU temperature
-14:01:52:096 (00014740) > [Render] Working set: 2656MB Page file: 13200MB Video Budget: 7091MB Video Usage: 5521MB Sys Budget: 7489MB Sys Usage: 505MB Demoted: 0MB fps: 33.2
-14:02:52:101 (00014740) > [Render] Quering NVAPI for GPU temperature
-14:02:52:101 (00014740) > [Render] Working set: 2721MB Page file: 13431MB Video Budget: 7112MB Video Usage: 5832MB Sys Budget: 7489MB Sys Usage: 513MB Demoted: 0MB fps: 30.7
-14:03:52:122 (00014740) > [Render] Quering NVAPI for GPU temperature
-14:03:52:122 (00014740) > [Render] Working set: 2568MB Page file: 13043MB Video Budget: 7112MB Video Usage: 5515MB Sys Budget: 7489MB Sys Usage: 505MB Demoted: 0MB fps: 30.6
-14:04:52:128 (00014740) > [Render] Quering NVAPI for GPU temperature
-14:04:52:128 (00014740) > [Render] Working set: 2519MB Page file: 13191MB Video Budget: 7112MB Video Usage: 5646MB Sys Budget: 7489MB Sys Usage: 505MB Demoted: 0MB fps: 30.5
-14:05:52:147 (00014740) > [Render] Quering NVAPI for GPU temperature
-14:05:52:147 (00014740) > [Render] Working set: 2474MB Page file: 13080MB Video Budget: 7123MB Video Usage: 5534MB Sys Budget: 7489MB Sys Usage: 505MB Demoted: 0MB fps: 31.2
-14:06:52:157 (00014740) > [Render] Quering NVAPI for GPU temperature
-14:06:52:157 (00014740) > [Render] Working set: 2260MB Page file: 13036MB Video Budget: 7123MB Video Usage: 5504MB Sys Budget: 7489MB Sys Usage: 505MB Demoted: 0MB fps: 30.9
-14:07:52:169 (00014740) > [Render] Quering NVAPI for GPU temperature
-14:07:52:169 (00014740) > [Render] Working set: 2280MB Page file: 13083MB Video Budget: 7119MB Video Usage: 5547MB Sys Budget: 7489MB Sys Usage: 505MB Demoted: 0MB fps: 30.9
-14:08:52:165 (00014740) > [Render] Quering NVAPI for GPU temperature
-14:08:52:166 (00014740) > [Render] Working set: 2439MB Page file: 13258MB Video Budget: 7112MB Video Usage: 5628MB Sys Budget: 7489MB Sys Usage: 569MB Demoted: 0MB fps: 31.0
-14:09:52:174 (00014740) > [Render] Quering NVAPI for GPU temperature
-14:09:52:175 (00014740) > [Render] Working set: 2345MB Page file: 13077MB Video Budget: 7112MB Video Usage: 5489MB Sys Budget: 7489MB Sys Usage: 569MB Demoted: 0MB fps: 37.5
-14:10:52:174 (00014740) > [Render] Quering NVAPI for GPU temperature
-14:10:52:174 (00014740) > [Render] Working set: 2282MB Page file: 13076MB Video Budget: 7101MB Video Usage: 5489MB Sys Budget: 7489MB Sys Usage: 569MB Demoted: 0MB fps: 37.5
-14:11:52:186 (00014740) > [Render] Quering NVAPI for GPU temperature
-14:11:52:187 (00014740) > [Render] Working set: 2296MB Page file: 13298MB Video Budget: 7101MB Video Usage: 5647MB Sys Budget: 7489MB Sys Usage: 569MB Demoted: 0MB fps: 37.5
-14:12:52:196 (00014740) > [Render] Quering NVAPI for GPU temperature
-14:12:52:196 (00014740) > [Render] Working set: 2523MB Page file: 13446MB Video Budget: 7112MB Video Usage: 5839MB Sys Budget: 7489MB Sys Usage: 505MB Demoted: 0MB fps: 32.0
-14:13:52:201 (00014740) > [Render] Quering NVAPI for GPU temperature
-14:13:52:201 (00014740) > [Render] Working set: 2774MB Page file: 13758MB Video Budget: 7123MB Video Usage: 6000MB Sys Budget: 7489MB Sys Usage: 529MB Demoted: 0MB fps: 30.9
-14:14:52:214 (00014740) > [Render] Quering NVAPI for GPU temperature
-14:14:52:214 (00014740) > [Render] Working set: 2595MB Page file: 13544MB Video Budget: 7112MB Video Usage: 5928MB Sys Budget: 7489MB Sys Usage: 505MB Demoted: 0MB fps: 31.6
-14:15:52:240 (00014740) > [Render] Quering NVAPI for GPU temperature
-14:15:52:240 (00014740) > [Render] Working set: 2561MB Page file: 13644MB Video Budget: 7112MB Video Usage: 6005MB Sys Budget: 7489MB Sys Usage: 513MB Demoted: 0MB fps: 30.5
-14:16:52:252 (00014740) > [Render] Quering NVAPI for GPU temperature
-14:16:52:252 (00014740) > [Render] Working set: 2376MB Page file: 13643MB Video Budget: 7112MB Video Usage: 5980MB Sys Budget: 7489MB Sys Usage: 521MB Demoted: 0MB fps: 31.1
-14:17:52:268 (00014740) > [Render] Quering NVAPI for GPU temperature
-14:17:52:268 (00014740) > [Render] Working set: 2298MB Page file: 13245MB Video Budget: 7119MB Video Usage: 5595MB Sys Budget: 7489MB Sys Usage: 513MB Demoted: 0MB fps: 31.2
-14:18:52:272 (00014740) > [Render] Quering NVAPI for GPU temperature
-14:18:52:272 (00014740) > [Render] Working set: 2405MB Page file: 13432MB Video Budget: 7123MB Video Usage: 5823MB Sys Budget: 7489MB Sys Usage: 513MB Demoted: 0MB fps: 31.1
-14:19:52:280 (00014740) > [Render] Quering NVAPI for GPU temperature
-14:19:52:280 (00014740) > [Render] Working set: 2506MB Page file: 13635MB Video Budget: 7112MB Video Usage: 5923MB Sys Budget: 7489MB Sys Usage: 513MB Demoted: 0MB fps: 31.1
-14:20:52:284 (00014740) > [Render] Quering NVAPI for GPU temperature
-14:20:52:284 (00014740) > [Render] Working set: 2476MB Page file: 13635MB Video Budget: 7123MB Video Usage: 5974MB Sys Budget: 7489MB Sys Usage: 513MB Demoted: 0MB fps: 31.1
-14:21:52:306 (00014740) > [Render] Quering NVAPI for GPU temperature
-14:21:52:306 (00014740) > [Render] Working set: 2208MB Page file: 13255MB Video Budget: 7112MB Video Usage: 5615MB Sys Budget: 7489MB Sys Usage: 513MB Demoted: 0MB fps: 31.1
-14:22:52:320 (00014740) > [Render] Quering NVAPI for GPU temperature
-14:22:52:320 (00014740) > [Render] Working set: 2399MB Page file: 13577MB Video Budget: 7123MB Video Usage: 5843MB Sys Budget: 7489MB Sys Usage: 513MB Demoted: 0MB fps: 31.1
-14:23:52:314 (00014740) > [Render] Quering NVAPI for GPU temperature
-14:23:52:315 (00014740) > [Render] Working set: 2433MB Page file: 13531MB Video Budget: 7123MB Video Usage: 5843MB Sys Budget: 7489MB Sys Usage: 521MB Demoted: 0MB fps: 31.6
-14:24:52:319 (00014740) > [Render] Quering NVAPI for GPU temperature
-14:24:52:319 (00014740) > [Render] Working set: 2413MB Page file: 13639MB Video Budget: 7123MB Video Usage: 5958MB Sys Budget: 7489MB Sys Usage: 585MB Demoted: 0MB fps: 31.6
-14:25:52:318 (00014740) > [Render] Quering NVAPI for GPU temperature
-14:25:52:318 (00014740) > [Render] Working set: 2288MB Page file: 13128MB Video Budget: 7123MB Video Usage: 5504MB Sys Budget: 7489MB Sys Usage: 585MB Demoted: 0MB fps: 37.5
-14:26:52:326 (00014740) > [Render] Quering NVAPI for GPU temperature
-14:26:52:326 (00014740) > [Render] Working set: 1994MB Page file: 13507MB Video Budget: 7112MB Video Usage: 5811MB Sys Budget: 7489MB Sys Usage: 521MB Demoted: 0MB fps: 32.8
-14:27:52:330 (00014740) > [Render] Quering NVAPI for GPU temperature
-14:27:52:330 (00014740) > [Render] Working set: 1901MB Page file: 13697MB Video Budget: 7108MB Video Usage: 6035MB Sys Budget: 7489MB Sys Usage: 521MB Demoted: 0MB fps: 32.0
-14:28:52:351 (00014740) > [Render] Quering NVAPI for GPU temperature
-14:28:52:351 (00014740) > [Render] Working set: 2033MB Page file: 13519MB Video Budget: 7123MB Video Usage: 5771MB Sys Budget: 7489MB Sys Usage: 521MB Demoted: 0MB fps: 31.1
-14:29:52:364 (00014740) > [Render] Quering NVAPI for GPU temperature
-14:29:52:364 (00014740) > [Render] Working set: 2047MB Page file: 13474MB Video Budget: 7119MB Video Usage: 5785MB Sys Budget: 7489MB Sys Usage: 521MB Demoted: 0MB fps: 31.2
-14:30:52:370 (00014740) > [Render] Quering NVAPI for GPU temperature
-14:30:52:370 (00014740) > [Render] Working set: 2086MB Page file: 13518MB Video Budget: 7089MB Video Usage: 5847MB Sys Budget: 7489MB Sys Usage: 521MB Demoted: 0MB fps: 31.0
-14:31:52:383 (00014740) > [Render] Quering NVAPI for GPU temperature
-14:31:52:383 (00014740) > [Render] Working set: 1987MB Page file: 13726MB Video Budget: 7080MB Video Usage: 6017MB Sys Budget: 7489MB Sys Usage: 521MB Demoted: 0MB fps: 31.0
-14:32:52:377 (00014740) > [Render] Quering NVAPI for GPU temperature
-14:32:52:377 (00014740) > [Render] Working set: 1964MB Page file: 13479MB Video Budget: 7123MB Video Usage: 5811MB Sys Budget: 7489MB Sys Usage: 521MB Demoted: 0MB fps: 30.1
-14:33:52:384 (00014740) > [Render] Quering NVAPI for GPU temperature
-14:33:52:384 (00014740) > [Render] Working set: 2078MB Page file: 13430MB Video Budget: 7123MB Video Usage: 5826MB Sys Budget: 7489MB Sys Usage: 521MB Demoted: 0MB fps: 35.7
-14:34:52:398 (00014740) > [Render] Quering NVAPI for GPU temperature
-14:34:52:398 (00014740) > [Render] Working set: 1980MB Page file: 13030MB Video Budget: 7123MB Video Usage: 5489MB Sys Budget: 7489MB Sys Usage: 521MB Demoted: 0MB fps: 37.5
-14:35:52:397 (00014740) > [Render] Quering NVAPI for GPU temperature
-14:35:52:397 (00014740) > [Render] Working set: 1981MB Page file: 13032MB Video Budget: 7123MB Video Usage: 5490MB Sys Budget: 7489MB Sys Usage: 521MB Demoted: 0MB fps: 37.5
-14:36:52:395 (00014740) > [Render] Quering NVAPI for GPU temperature
-14:36:52:395 (00014740) > [Render] Working set: 2183MB Page file: 13131MB Video Budget: 7112MB Video Usage: 5547MB Sys Budget: 7489MB Sys Usage: 521MB Demoted: 0MB fps: 32.2
-14:37:52:412 (00014740) > [Render] Quering NVAPI for GPU temperature
-14:37:52:412 (00014740) > [Render] Working set: 2184MB Page file: 13383MB Video Budget: 7086MB Video Usage: 5772MB Sys Budget: 7489MB Sys Usage: 521MB Demoted: 0MB fps: 30.6
-14:38:52:424 (00014740) > [Render] Quering NVAPI for GPU temperature
-14:38:52:424 (00014740) > [Render] Working set: 2150MB Page file: 13567MB Video Budget: 7123MB Video Usage: 5947MB Sys Budget: 7489MB Sys Usage: 521MB Demoted: 0MB fps: 36.3
-14:39:52:437 (00014740) > [Render] Quering NVAPI for GPU temperature
-14:39:52:437 (00014740) > [Render] Working set: 2018MB Page file: 13053MB Video Budget: 7112MB Video Usage: 5511MB Sys Budget: 7489MB Sys Usage: 522MB Demoted: 0MB fps: 37.3
-14:40:52:437 (00014740) > [Render] Quering NVAPI for GPU temperature
-14:40:52:437 (00014740) > [Render] Working set: 2082MB Page file: 13217MB Video Budget: 7123MB Video Usage: 5656MB Sys Budget: 7489MB Sys Usage: 522MB Demoted: 0MB fps: 32.8
-14:41:52:438 (00014740) > [Render] Quering NVAPI for GPU temperature
-14:41:52:438 (00014740) > [Render] Working set: 2119MB Page file: 13414MB Video Budget: 7112MB Video Usage: 5576MB Sys Budget: 7489MB Sys Usage: 522MB Demoted: 0MB fps: 31.8
-14:42:52:425 (00014740) > [Render] Quering NVAPI for GPU temperature
-14:42:52:425 (00014740) > [Render] Working set: 2383MB Page file: 13723MB Video Budget: 7112MB Video Usage: 6025MB Sys Budget: 7489MB Sys Usage: 522MB Demoted: 0MB fps: 36.5
-14:43:52:450 (00014740) > [Render] Quering NVAPI for GPU temperature
-14:43:52:450 (00014740) > [Render] Working set: 2330MB Page file: 13826MB Video Budget: 7112MB Video Usage: 5976MB Sys Budget: 7489MB Sys Usage: 522MB Demoted: 0MB fps: 33.4
-14:44:52:467 (00014740) > [Render] Quering NVAPI for GPU temperature
-14:44:52:468 (00014740) > [Render] Working set: 2203MB Page file: 13331MB Video Budget: 7123MB Video Usage: 5691MB Sys Budget: 7489MB Sys Usage: 522MB Demoted: 0MB fps: 32.6
-14:45:52:468 (00014740) > [Render] Quering NVAPI for GPU temperature
-14:45:52:468 (00014740) > [Render] Working set: 2160MB Page file: 13459MB Video Budget: 7123MB Video Usage: 5814MB Sys Budget: 7489MB Sys Usage: 522MB Demoted: 0MB fps: 32.6
-14:46:52:476 (00014740) > [Render] Quering NVAPI for GPU temperature
-14:46:52:476 (00014740) > [Render] Working set: 2132MB Page file: 13263MB Video Budget: 7112MB Video Usage: 5590MB Sys Budget: 7489MB Sys Usage: 586MB Demoted: 0MB fps: 34.3
-14:47:52:498 (00014740) > [Render] Quering NVAPI for GPU temperature
-14:47:52:498 (00014740) > [Render] Working set: 2795MB Page file: 13868MB Video Budget: 7104MB Video Usage: 6067MB Sys Budget: 7489MB Sys Usage: 538MB Demoted: 0MB fps: 31.5
-14:48:52:496 (00014740) > [Render] Quering NVAPI for GPU temperature
-14:48:52:496 (00014740) > [Render] Working set: 3033MB Page file: 13773MB Video Budget: 7112MB Video Usage: 6084MB Sys Budget: 7489MB Sys Usage: 530MB Demoted: 0MB fps: 31.7
-14:49:52:485 (00014740) > [Render] Quering NVAPI for GPU temperature
-14:49:52:485 (00014740) > [Render] Working set: 2889MB Page file: 13856MB Video Budget: 7112MB Video Usage: 6070MB Sys Budget: 7489MB Sys Usage: 587MB Demoted: 0MB fps: 33.4
-14:50:52:504 (00014740) > [Render] Quering NVAPI for GPU temperature
-14:50:52:504 (00014740) > [Render] Working set: 2652MB Page file: 13359MB Video Budget: 7101MB Video Usage: 5632MB Sys Budget: 7489MB Sys Usage: 523MB Demoted: 0MB fps: 34.3
-14:51:52:511 (00014740) > [Render] Quering NVAPI for GPU temperature
-14:51:52:512 (00014740) > [Render] Working set: 2395MB Page file: 13191MB Video Budget: 7112MB Video Usage: 5621MB Sys Budget: 7489MB Sys Usage: 523MB Demoted: 0MB fps: 35.5
-14:52:52:501 (00014740) > [Render] Quering NVAPI for GPU temperature
-14:52:52:502 (00014740) > [Render] Working set: 2456MB Page file: 13243MB Video Budget: 7123MB Video Usage: 5595MB Sys Budget: 7489MB Sys Usage: 587MB Demoted: 0MB fps: 36.8
-14:53:52:515 (00014740) > [Render] Quering NVAPI for GPU temperature
-14:53:52:515 (00014740) > [Render] Working set: 2661MB Page file: 13783MB Video Budget: 7123MB Video Usage: 6081MB Sys Budget: 7489MB Sys Usage: 587MB Demoted: 0MB fps: 34.2
-14:54:52:528 (00014740) > [Render] Quering NVAPI for GPU temperature
-14:54:52:528 (00014740) > [Render] Working set: 3021MB Page file: 13397MB Video Budget: 7123MB Video Usage: 5782MB Sys Budget: 7489MB Sys Usage: 523MB Demoted: 0MB fps: 31.1
-14:55:52:540 (00014740) > [Render] Quering NVAPI for GPU temperature
-14:55:52:540 (00014740) > [Render] Working set: 2756MB Page file: 13180MB Video Budget: 7123MB Video Usage: 5592MB Sys Budget: 7489MB Sys Usage: 523MB Demoted: 0MB fps: 34.2
-14:56:52:543 (00014740) > [Render] Quering NVAPI for GPU temperature
-14:56:52:543 (00014740) > [Render] Working set: 2720MB Page file: 13720MB Video Budget: 7123MB Video Usage: 6069MB Sys Budget: 7489MB Sys Usage: 524MB Demoted: 0MB fps: 32.1
-14:57:52:544 (00014740) > [Render] Quering NVAPI for GPU temperature
-14:57:52:545 (00014740) > [Render] Working set: 2632MB Page file: 13359MB Video Budget: 7123MB Video Usage: 5737MB Sys Budget: 7489MB Sys Usage: 524MB Demoted: 0MB fps: 31.7
-14:58:52:547 (00014740) > [Render] Quering NVAPI for GPU temperature
-14:58:52:547 (00014740) > [Render] Working set: 2735MB Page file: 13795MB Video Budget: 7123MB Video Usage: 6098MB Sys Budget: 7489MB Sys Usage: 524MB Demoted: 0MB fps: 31.6
-14:59:52:541 (00014740) > [Render] Quering NVAPI for GPU temperature
-14:59:52:542 (00014740) > [Render] Working set: 2650MB Page file: 13294MB Video Budget: 7112MB Video Usage: 5688MB Sys Budget: 7489MB Sys Usage: 524MB Demoted: 0MB fps: 31.0
-15:00:52:535 (00014740) > [Render] Quering NVAPI for GPU temperature
-15:00:52:536 (00014740) > [Render] Working set: 2643MB Page file: 13244MB Video Budget: 7089MB Video Usage: 5639MB Sys Budget: 7489MB Sys Usage: 524MB Demoted: 0MB fps: 30.9
-15:01:52:547 (00014740) > [Render] Quering NVAPI for GPU temperature
-15:01:52:547 (00014740) > [Render] Working set: 2615MB Page file: 13168MB Video Budget: 7091MB Video Usage: 5576MB Sys Budget: 7489MB Sys Usage: 524MB Demoted: 0MB fps: 31.5
-15:02:52:559 (00014740) > [Render] Quering NVAPI for GPU temperature
-15:02:52:559 (00014740) > [Render] Working set: 2514MB Page file: 13278MB Video Budget: 7123MB Video Usage: 5681MB Sys Budget: 7489MB Sys Usage: 524MB Demoted: 0MB fps: 31.6
-15:03:52:553 (00014740) > [Render] Quering NVAPI for GPU temperature
-15:03:52:553 (00014740) > [Render] Working set: 2531MB Page file: 13361MB Video Budget: 7123MB Video Usage: 5676MB Sys Budget: 7489MB Sys Usage: 524MB Demoted: 0MB fps: 31.5
-15:04:52:567 (00014740) > [Render] Quering NVAPI for GPU temperature
-15:04:52:567 (00014740) > [Render] Working set: 2665MB Page file: 13493MB Video Budget: 7123MB Video Usage: 5820MB Sys Budget: 7489MB Sys Usage: 524MB Demoted: 0MB fps: 32.6
-15:05:52:566 (00014740) > [Render] Quering NVAPI for GPU temperature
-15:05:52:566 (00014740) > [Render] Working set: 2615MB Page file: 13216MB Video Budget: 7123MB Video Usage: 5609MB Sys Budget: 7489MB Sys Usage: 524MB Demoted: 0MB fps: 31.2
-15:06:52:567 (00014740) > [Render] Quering NVAPI for GPU temperature
-15:06:52:567 (00014740) > [Render] Working set: 2691MB Page file: 13364MB Video Budget: 7112MB Video Usage: 5679MB Sys Budget: 7489MB Sys Usage: 588MB Demoted: 0MB fps: 32.0
-15:07:52:566 (00014740) > [Render] Quering NVAPI for GPU temperature
-15:07:52:566 (00014740) > [Render] Working set: 2538MB Page file: 13177MB Video Budget: 7112MB Video Usage: 5583MB Sys Budget: 7489MB Sys Usage: 524MB Demoted: 0MB fps: 35.1
-15:08:52:566 (00014740) > [Render] Quering NVAPI for GPU temperature
-15:08:52:566 (00014740) > [Render] Working set: 2463MB Page file: 13156MB Video Budget: 7119MB Video Usage: 5563MB Sys Budget: 7489MB Sys Usage: 524MB Demoted: 0MB fps: 31.1
-15:09:52:585 (00014740) > [Render] Quering NVAPI for GPU temperature
-15:09:52:586 (00014740) > [Render] Working set: 2464MB Page file: 13171MB Video Budget: 7123MB Video Usage: 5578MB Sys Budget: 7489MB Sys Usage: 524MB Demoted: 0MB fps: 30.5
-15:10:52:594 (00014740) > [Render] Quering NVAPI for GPU temperature
-15:10:52:594 (00014740) > [Render] Working set: 2460MB Page file: 13188MB Video Budget: 7123MB Video Usage: 5591MB Sys Budget: 7489MB Sys Usage: 524MB Demoted: 0MB fps: 31.6
-15:11:52:592 (00014740) > [Render] Quering NVAPI for GPU temperature
-15:11:52:593 (00014740) > [Render] Working set: 2460MB Page file: 13257MB Video Budget: 7123MB Video Usage: 5661MB Sys Budget: 7489MB Sys Usage: 524MB Demoted: 0MB fps: 31.8
-15:12:52:592 (00014740) > [Render] Quering NVAPI for GPU temperature
-15:12:52:592 (00014740) > [Render] Working set: 2398MB Page file: 13170MB Video Budget: 7123MB Video Usage: 5580MB Sys Budget: 7489MB Sys Usage: 524MB Demoted: 0MB fps: 34.1
-15:13:52:581 (00014740) > [Render] Quering NVAPI for GPU temperature
-15:13:52:581 (00014740) > [Render] Working set: 2398MB Page file: 13163MB Video Budget: 7123MB Video Usage: 5575MB Sys Budget: 7489MB Sys Usage: 524MB Demoted: 0MB fps: 32.3
-15:14:52:590 (00014740) > [Render] Quering NVAPI for GPU temperature
-15:14:52:591 (00014740) > [Render] Working set: 2407MB Page file: 13233MB Video Budget: 7112MB Video Usage: 5631MB Sys Budget: 7489MB Sys Usage: 524MB Demoted: 0MB fps: 34.0
-15:15:52:605 (00014740) > [Render] Quering NVAPI for GPU temperature
-15:15:52:605 (00014740) > [Render] Working set: 2408MB Page file: 13165MB Video Budget: 7107MB Video Usage: 5572MB Sys Budget: 7489MB Sys Usage: 524MB Demoted: 0MB fps: 32.5
-15:16:52:606 (00014740) > [Render] Quering NVAPI for GPU temperature
-15:16:52:606 (00014740) > [Render] Working set: 2407MB Page file: 13193MB Video Budget: 7123MB Video Usage: 5599MB Sys Budget: 7489MB Sys Usage: 524MB Demoted: 0MB fps: 32.0
-15:17:52:605 (00014740) > [Render] Quering NVAPI for GPU temperature
-15:17:52:606 (00014740) > [Render] Working set: 2451MB Page file: 13626MB Video Budget: 7112MB Video Usage: 5947MB Sys Budget: 7489MB Sys Usage: 524MB Demoted: 0MB fps: 35.7
-15:18:52:619 (00014740) > [Render] Quering NVAPI for GPU temperature
-15:18:52:619 (00014740) > [Render] Working set: 2574MB Page file: 13448MB Video Budget: 7119MB Video Usage: 5722MB Sys Budget: 7489MB Sys Usage: 524MB Demoted: 0MB fps: 32.1
-15:19:52:626 (00014740) > [Render] Quering NVAPI for GPU temperature
-15:19:52:627 (00014740) > [Render] Working set: 2416MB Page file: 13265MB Video Budget: 7123MB Video Usage: 5617MB Sys Budget: 7489MB Sys Usage: 524MB Demoted: 0MB fps: 31.8
-15:20:52:630 (00014740) > [Render] Quering NVAPI for GPU temperature
-15:20:52:630 (00014740) > [Render] Working set: 2545MB Page file: 13736MB Video Budget: 7112MB Video Usage: 6030MB Sys Budget: 7489MB Sys Usage: 524MB Demoted: 0MB fps: 34.6
-15:21:52:649 (00014740) > [Render] Quering NVAPI for GPU temperature
-15:21:52:649 (00014740) > [Render] Working set: 2735MB Page file: 13649MB Video Budget: 7123MB Video Usage: 5841MB Sys Budget: 7489MB Sys Usage: 524MB Demoted: 0MB fps: 31.7
-15:22:52:647 (00014740) > [Render] Quering NVAPI for GPU temperature
-15:22:52:647 (00014740) > [Render] Working set: 2717MB Page file: 13866MB Video Budget: 7123MB Video Usage: 6107MB Sys Budget: 7489MB Sys Usage: 532MB Demoted: 0MB fps: 31.9
-15:23:52:662 (00014740) > [Render] Quering NVAPI for GPU temperature
-15:23:52:662 (00014740) > [Render] Working set: 2647MB Page file: 13717MB Video Budget: 7112MB Video Usage: 6014MB Sys Budget: 7489MB Sys Usage: 525MB Demoted: 0MB fps: 31.4
-15:24:52:683 (00014740) > [Render] Quering NVAPI for GPU temperature
-15:24:52:683 (00014740) > [Render] Working set: 2440MB Page file: 13346MB Video Budget: 7112MB Video Usage: 5719MB Sys Budget: 7489MB Sys Usage: 525MB Demoted: 0MB fps: 33.3
-15:25:52:701 (00014740) > [Render] Quering NVAPI for GPU temperature
-15:25:52:701 (00014740) > [Render] Working set: 2424MB Page file: 13240MB Video Budget: 7123MB Video Usage: 5579MB Sys Budget: 7489MB Sys Usage: 525MB Demoted: 0MB fps: 37.3
-15:26:52:695 (00014740) > [Render] Quering NVAPI for GPU temperature
-15:26:52:695 (00014740) > [Render] Working set: 2485MB Page file: 13417MB Video Budget: 7112MB Video Usage: 5767MB Sys Budget: 7489MB Sys Usage: 525MB Demoted: 0MB fps: 32.0
-15:27:52:700 (00014740) > [Render] Quering NVAPI for GPU temperature
-15:27:52:700 (00014740) > [Render] Working set: 2475MB Page file: 13579MB Video Budget: 7123MB Video Usage: 5862MB Sys Budget: 7489MB Sys Usage: 525MB Demoted: 0MB fps: 33.5
-15:28:52:698 (00014740) > [Render] Quering NVAPI for GPU temperature
-15:28:52:698 (00014740) > [Render] Working set: 2465MB Page file: 13197MB Video Budget: 7119MB Video Usage: 5579MB Sys Budget: 7489MB Sys Usage: 525MB Demoted: 0MB fps: 33.4
-15:29:52:688 (00014740) > [Render] Quering NVAPI for GPU temperature
-15:29:52:689 (00014740) > [Render] Working set: 2721MB Page file: 13939MB Video Budget: 7112MB Video Usage: 6034MB Sys Budget: 7489MB Sys Usage: 533MB Demoted: 0MB fps: 34.5
-15:30:52:708 (00014740) > [Render] Quering NVAPI for GPU temperature
-15:30:52:708 (00014740) > [Render] Working set: 2697MB Page file: 13779MB Video Budget: 7078MB Video Usage: 6077MB Sys Budget: 7489MB Sys Usage: 525MB Demoted: 0MB fps: 32.8
-15:31:52:714 (00014740) > [Render] Quering NVAPI for GPU temperature
-15:31:52:714 (00014740) > [Render] Working set: 2576MB Page file: 13370MB Video Budget: 7091MB Video Usage: 5740MB Sys Budget: 7489MB Sys Usage: 525MB Demoted: 0MB fps: 35.4
-15:32:52:730 (00014740) > [Render] Quering NVAPI for GPU temperature
-15:32:52:730 (00014740) > [Render] Working set: 2699MB Page file: 13825MB Video Budget: 7112MB Video Usage: 6088MB Sys Budget: 7489MB Sys Usage: 541MB Demoted: 0MB fps: 35.1
-15:33:52:737 (00014740) > [Render] Quering NVAPI for GPU temperature
-15:33:52:737 (00014740) > [Render] Working set: 3103MB Page file: 13874MB Video Budget: 7123MB Video Usage: 6087MB Sys Budget: 7489MB Sys Usage: 525MB Demoted: 0MB fps: 32.0
-15:34:52:749 (00014740) > [Render] Quering NVAPI for GPU temperature
-15:34:52:749 (00014740) > [Render] Working set: 2812MB Page file: 13388MB Video Budget: 7112MB Video Usage: 5756MB Sys Budget: 7489MB Sys Usage: 525MB Demoted: 0MB fps: 32.7
-15:35:52:736 (00014740) > [Render] Quering NVAPI for GPU temperature
-15:35:52:736 (00014740) > [Render] Working set: 2495MB Page file: 13287MB Video Budget: 7123MB Video Usage: 5637MB Sys Budget: 7489MB Sys Usage: 525MB Demoted: 0MB fps: 35.9
-15:36:52:748 (00014740) > [Render] Quering NVAPI for GPU temperature
-15:36:52:748 (00014740) > [Render] Working set: 2427MB Page file: 13487MB Video Budget: 7123MB Video Usage: 5797MB Sys Budget: 7489MB Sys Usage: 525MB Demoted: 0MB fps: 33.3
-15:37:52:750 (00014740) > [Render] Quering NVAPI for GPU temperature
-15:37:52:750 (00014740) > [Render] Working set: 2387MB Page file: 13377MB Video Budget: 7123MB Video Usage: 5705MB Sys Budget: 7489MB Sys Usage: 525MB Demoted: 0MB fps: 30.5
-15:38:52:761 (00014740) > [Render] Quering NVAPI for GPU temperature
-15:38:52:761 (00014740) > [Render] Working set: 2501MB Page file: 13620MB Video Budget: 7108MB Video Usage: 5848MB Sys Budget: 7489MB Sys Usage: 589MB Demoted: 0MB fps: 36.3
-15:39:52:761 (00014740) > [Render] Quering NVAPI for GPU temperature
-15:39:52:762 (00014740) > [Render] Working set: 2681MB Page file: 13491MB Video Budget: 7112MB Video Usage: 5829MB Sys Budget: 7489MB Sys Usage: 525MB Demoted: 0MB fps: 31.8
-15:40:52:756 (00014740) > [Render] Quering NVAPI for GPU temperature
-15:40:52:757 (00014740) > [Render] Working set: 2670MB Page file: 13514MB Video Budget: 7123MB Video Usage: 5851MB Sys Budget: 7489MB Sys Usage: 525MB Demoted: 0MB fps: 33.8
-15:41:52:775 (00014740) > [Render] Quering NVAPI for GPU temperature
-15:41:52:775 (00014740) > [Render] Working set: 2567MB Page file: 13459MB Video Budget: 7123MB Video Usage: 5800MB Sys Budget: 7489MB Sys Usage: 525MB Demoted: 0MB fps: 35.4
-15:42:52:774 (00014740) > [Render] Quering NVAPI for GPU temperature
-15:42:52:775 (00014740) > [Render] Working set: 2985MB Page file: 13953MB Video Budget: 7112MB Video Usage: 6098MB Sys Budget: 7489MB Sys Usage: 525MB Demoted: 0MB fps: 33.0
-15:43:52:772 (00014740) > [Render] Quering NVAPI for GPU temperature
-15:43:52:772 (00014740) > [Render] Working set: 3328MB Page file: 13976MB Video Budget: 7112MB Video Usage: 6080MB Sys Budget: 7489MB Sys Usage: 549MB Demoted: 0MB fps: 31.8
-15:44:52:790 (00014740) > [Render] Quering NVAPI for GPU temperature
-15:44:52:790 (00014740) > [Render] Working set: 3542MB Page file: 13934MB Video Budget: 7112MB Video Usage: 6119MB Sys Budget: 7489MB Sys Usage: 533MB Demoted: 0MB fps: 31.6
-15:45:52:799 (00014740) > [Render] Quering NVAPI for GPU temperature
-15:45:52:799 (00014740) > [Render] Working set: 3469MB Page file: 13944MB Video Budget: 7112MB Video Usage: 6080MB Sys Budget: 7489MB Sys Usage: 533MB Demoted: 0MB fps: 31.7
-15:46:52:815 (00014740) > [Render] Quering NVAPI for GPU temperature
-15:46:52:815 (00014740) > [Render] Working set: 2902MB Page file: 13364MB Video Budget: 7112MB Video Usage: 5712MB Sys Budget: 7489MB Sys Usage: 525MB Demoted: 0MB fps: 36.1
-15:47:52:822 (00014740) > [Render] Quering NVAPI for GPU temperature
-15:47:52:822 (00014740) > [Render] Working set: 2548MB Page file: 13292MB Video Budget: 7123MB Video Usage: 5581MB Sys Budget: 7489MB Sys Usage: 589MB Demoted: 0MB fps: 35.6
-15:48:52:820 (00014740) > [Render] Quering NVAPI for GPU temperature
-15:48:52:820 (00014740) > [Render] Working set: 3081MB Page file: 13780MB Video Budget: 7084MB Video Usage: 6162MB Sys Budget: 7489MB Sys Usage: 525MB Demoted: 0MB fps: 31.6
-15:49:52:828 (00014740) > [Render] Quering NVAPI for GPU temperature
-15:49:52:829 (00014740) > [Render] Working set: 3090MB Page file: 13596MB Video Budget: 7112MB Video Usage: 5976MB Sys Budget: 7489MB Sys Usage: 525MB Demoted: 0MB fps: 33.0
-15:50:52:818 (00014740) > [Render] Quering NVAPI for GPU temperature
-15:50:52:818 (00014740) > [Render] Working set: 3257MB Page file: 13880MB Video Budget: 7112MB Video Usage: 6139MB Sys Budget: 7489MB Sys Usage: 525MB Demoted: 0MB fps: 32.8
-15:51:52:815 (00014740) > [Render] Quering NVAPI for GPU temperature
-15:51:52:815 (00014740) > [Render] Working set: 3334MB Page file: 13798MB Video Budget: 7123MB Video Usage: 6111MB Sys Budget: 7489MB Sys Usage: 525MB Demoted: 0MB fps: 33.4
-15:52:52:814 (00014740) > [Render] Quering NVAPI for GPU temperature
-15:52:52:814 (00014740) > [Render] Working set: 2727MB Page file: 13392MB Video Budget: 7123MB Video Usage: 5737MB Sys Budget: 7489MB Sys Usage: 525MB Demoted: 0MB fps: 35.3
-15:53:52:813 (00014740) > [Render] Quering NVAPI for GPU temperature
-15:53:52:813 (00014740) > [Render] Working set: 2515MB Page file: 13308MB Video Budget: 7123MB Video Usage: 5636MB Sys Budget: 7489MB Sys Usage: 589MB Demoted: 0MB fps: 37.5
-15:54:52:833 (00014740) > [Render] Quering NVAPI for GPU temperature
-15:54:52:834 (00014740) > [Render] Working set: 2589MB Page file: 13580MB Video Budget: 7112MB Video Usage: 5929MB Sys Budget: 7489MB Sys Usage: 525MB Demoted: 0MB fps: 34.1
-15:55:52:834 (00014740) > [Render] Quering NVAPI for GPU temperature
-15:55:52:834 (00014740) > [Render] Working set: 2560MB Page file: 13310MB Video Budget: 7109MB Video Usage: 5657MB Sys Budget: 7489MB Sys Usage: 525MB Demoted: 0MB fps: 32.5
-15:56:52:840 (00014740) > [Render] Quering NVAPI for GPU temperature
-15:56:52:840 (00014740) > [Render] Working set: 2942MB Page file: 13751MB Video Budget: 7112MB Video Usage: 6036MB Sys Budget: 7489MB Sys Usage: 534MB Demoted: 0MB fps: 32.7
-15:57:52:829 (00014740) > [Render] Quering NVAPI for GPU temperature
-15:57:52:830 (00014740) > [Render] Working set: 2757MB Page file: 13479MB Video Budget: 7119MB Video Usage: 5723MB Sys Budget: 7489MB Sys Usage: 534MB Demoted: 0MB fps: 32.9
-15:58:52:844 (00014740) > [Render] Quering NVAPI for GPU temperature
-15:58:52:844 (00014740) > [Render] Working set: 2798MB Page file: 13994MB Video Budget: 7087MB Video Usage: 6121MB Sys Budget: 7489MB Sys Usage: 534MB Demoted: 0MB fps: 32.2
-15:59:52:855 (00014740) > [Render] Quering NVAPI for GPU temperature
-15:59:52:855 (00014740) > [Render] Working set: 2604MB Page file: 13778MB Video Budget: 7112MB Video Usage: 6039MB Sys Budget: 7489MB Sys Usage: 534MB Demoted: 0MB fps: 32.0
-16:00:52:855 (00014740) > [Render] Quering NVAPI for GPU temperature
-16:00:52:855 (00014740) > [Render] Working set: 3001MB Page file: 14061MB Video Budget: 7078MB Video Usage: 6116MB Sys Budget: 7489MB Sys Usage: 534MB Demoted: 0MB fps: 31.7
-16:01:52:865 (00014740) > [Render] Quering NVAPI for GPU temperature
-16:01:52:865 (00014740) > [Render] Working set: 2967MB Page file: 13642MB Video Budget: 7091MB Video Usage: 5895MB Sys Budget: 7489MB Sys Usage: 534MB Demoted: 0MB fps: 31.8
-16:02:52:871 (00014740) > [Render] Quering NVAPI for GPU temperature
-16:02:52:871 (00014740) > [Render] Working set: 2765MB Page file: 13278MB Video Budget: 7123MB Video Usage: 5610MB Sys Budget: 7489MB Sys Usage: 534MB Demoted: 0MB fps: 32.0
-16:03:52:865 (00014740) > [Render] Quering NVAPI for GPU temperature
-16:03:52:865 (00014740) > [Render] Working set: 2728MB Page file: 13364MB Video Budget: 7112MB Video Usage: 5687MB Sys Budget: 7489MB Sys Usage: 534MB Demoted: 0MB fps: 34.2
-16:04:52:879 (00014740) > [Render] Quering NVAPI for GPU temperature
-16:04:52:879 (00014740) > [Render] Working set: 2763MB Page file: 13826MB Video Budget: 7112MB Video Usage: 6064MB Sys Budget: 7489MB Sys Usage: 534MB Demoted: 0MB fps: 32.4
-16:05:52:896 (00014740) > [Render] Quering NVAPI for GPU temperature
-16:05:52:896 (00014740) > [Render] Working set: 2711MB Page file: 13594MB Video Budget: 7112MB Video Usage: 5904MB Sys Budget: 7489MB Sys Usage: 534MB Demoted: 0MB fps: 32.2
-16:06:52:918 (00014740) > [Render] Quering NVAPI for GPU temperature
-16:06:52:918 (00014740) > [Render] Working set: 2655MB Page file: 13395MB Video Budget: 7123MB Video Usage: 5709MB Sys Budget: 7489MB Sys Usage: 534MB Demoted: 0MB fps: 33.8
-16:07:52:909 (00014740) > [Render] Quering NVAPI for GPU temperature
-16:07:52:909 (00014740) > [Render] Working set: 2617MB Page file: 13429MB Video Budget: 7123MB Video Usage: 5744MB Sys Budget: 7489MB Sys Usage: 534MB Demoted: 0MB fps: 33.3
-16:08:52:936 (00014740) > [Render] Quering NVAPI for GPU temperature
-16:08:52:937 (00014740) > [Render] Working set: 2910MB Page file: 13675MB Video Budget: 7094MB Video Usage: 5925MB Sys Budget: 7489MB Sys Usage: 534MB Demoted: 0MB fps: 31.6
-16:09:52:920 (00014740) > [Render] Quering NVAPI for GPU temperature
-16:09:52:920 (00014740) > [Render] Working set: 3037MB Page file: 13907MB Video Budget: 7112MB Video Usage: 6165MB Sys Budget: 7489MB Sys Usage: 534MB Demoted: 0MB fps: 31.8
-16:10:52:919 (00014740) > [Render] Quering NVAPI for GPU temperature
-16:10:52:919 (00014740) > [Render] Working set: 2868MB Page file: 13927MB Video Budget: 7112MB Video Usage: 6170MB Sys Budget: 7489MB Sys Usage: 534MB Demoted: 0MB fps: 32.8
-16:11:52:918 (00014740) > [Render] Quering NVAPI for GPU temperature
-16:11:52:918 (00014740) > [Render] Working set: 2838MB Page file: 13891MB Video Budget: 7123MB Video Usage: 6076MB Sys Budget: 7489MB Sys Usage: 558MB Demoted: 0MB fps: 33.0
-16:12:52:929 (00014740) > [Render] Quering NVAPI for GPU temperature
-16:12:52:929 (00014740) > [Render] Working set: 2731MB Page file: 13468MB Video Budget: 7112MB Video Usage: 5779MB Sys Budget: 7489MB Sys Usage: 534MB Demoted: 0MB fps: 32.6
-16:13:52:931 (00014740) > [Render] Quering NVAPI for GPU temperature
-16:13:52:931 (00014740) > [Render] Working set: 2719MB Page file: 13313MB Video Budget: 7112MB Video Usage: 5650MB Sys Budget: 7489MB Sys Usage: 534MB Demoted: 0MB fps: 32.8
-16:14:52:943 (00014740) > [Render] Quering NVAPI for GPU temperature
-16:14:52:944 (00014740) > [Render] Working set: 2713MB Page file: 13242MB Video Budget: 7112MB Video Usage: 5620MB Sys Budget: 7489MB Sys Usage: 534MB Demoted: 0MB fps: 36.7
-16:15:52:956 (00014740) > [Render] Quering NVAPI for GPU temperature
-16:15:52:956 (00014740) > [Render] Working set: 2655MB Page file: 13235MB Video Budget: 7123MB Video Usage: 5615MB Sys Budget: 7489MB Sys Usage: 534MB Demoted: 0MB fps: 37.4
-16:16:52:957 (00014740) > [Render] Quering NVAPI for GPU temperature
-16:16:52:957 (00014740) > [Render] Working set: 2528MB Page file: 13214MB Video Budget: 7123MB Video Usage: 5595MB Sys Budget: 7489MB Sys Usage: 534MB Demoted: 0MB fps: 37.4
-16:17:52:957 (00014740) > [Render] Quering NVAPI for GPU temperature
-16:17:52:957 (00014740) > [Render] Working set: 2423MB Page file: 13284MB Video Budget: 7123MB Video Usage: 5603MB Sys Budget: 7489MB Sys Usage: 598MB Demoted: 0MB fps: 35.7
-16:18:52:957 (00014740) > [Render] Quering NVAPI for GPU temperature
-16:18:52:957 (00014740) > [Render] Working set: 2425MB Page file: 13281MB Video Budget: 7123MB Video Usage: 5603MB Sys Budget: 7489MB Sys Usage: 598MB Demoted: 0MB fps: 37.5
-16:19:52:956 (00014740) > [Render] Quering NVAPI for GPU temperature
-16:19:52:956 (00014740) > [Render] Working set: 2426MB Page file: 13281MB Video Budget: 7112MB Video Usage: 5603MB Sys Budget: 7489MB Sys Usage: 598MB Demoted: 0MB fps: 37.5
-16:20:52:959 (00014740) > [Render] Quering NVAPI for GPU temperature
-16:20:52:959 (00014740) > [Render] Working set: 2389MB Page file: 13285MB Video Budget: 7112MB Video Usage: 5658MB Sys Budget: 7489MB Sys Usage: 534MB Demoted: 0MB fps: 35.7
-16:21:52:973 (00014740) > [Render] Quering NVAPI for GPU temperature
-16:21:52:973 (00014740) > [Render] Working set: 2841MB Page file: 13942MB Video Budget: 7123MB Video Usage: 6113MB Sys Budget: 7489MB Sys Usage: 542MB Demoted: 0MB fps: 33.0
-16:22:52:991 (00014740) > [Render] Quering NVAPI for GPU temperature
-16:22:52:992 (00014740) > [Render] Working set: 2638MB Page file: 13710MB Video Budget: 7123MB Video Usage: 5949MB Sys Budget: 7489MB Sys Usage: 534MB Demoted: 0MB fps: 30.7
-16:23:53:007 (00014740) > [Render] Quering NVAPI for GPU temperature
-16:23:53:007 (00014740) > [Render] Working set: 2583MB Page file: 13743MB Video Budget: 7112MB Video Usage: 5974MB Sys Budget: 7489MB Sys Usage: 542MB Demoted: 0MB fps: 31.8
-16:24:53:022 (00014740) > [Render] Quering NVAPI for GPU temperature
-16:24:53:022 (00014740) > [Render] Working set: 2433MB Page file: 13297MB Video Budget: 7123MB Video Usage: 5626MB Sys Budget: 7489MB Sys Usage: 534MB Demoted: 0MB fps: 32.4
-16:25:53:036 (00014740) > [Render] Quering NVAPI for GPU temperature
-16:25:53:036 (00014740) > [Render] Working set: 2486MB Page file: 13338MB Video Budget: 7112MB Video Usage: 5609MB Sys Budget: 7489MB Sys Usage: 598MB Demoted: 0MB fps: 35.0
-16:26:53:032 (00014740) > [Render] Quering NVAPI for GPU temperature
-16:26:53:032 (00014740) > [Render] Working set: 2971MB Page file: 13932MB Video Budget: 7123MB Video Usage: 6139MB Sys Budget: 7489MB Sys Usage: 614MB Demoted: 0MB fps: 33.5
-16:27:53:035 (00014740) > [Render] Quering NVAPI for GPU temperature
-16:27:53:035 (00014740) > [Render] Working set: 2848MB Page file: 13487MB Video Budget: 7123MB Video Usage: 5828MB Sys Budget: 7489MB Sys Usage: 598MB Demoted: 0MB fps: 35.1
-16:28:53:034 (00014740) > [Render] Quering NVAPI for GPU temperature
-16:28:53:034 (00014740) > [Render] Working set: 2675MB Page file: 13588MB Video Budget: 7123MB Video Usage: 5944MB Sys Budget: 7489MB Sys Usage: 534MB Demoted: 0MB fps: 33.9
-16:29:53:034 (00014740) > [Render] Quering NVAPI for GPU temperature
-16:29:53:034 (00014740) > [Render] Working set: 2535MB Page file: 13385MB Video Budget: 7108MB Video Usage: 5707MB Sys Budget: 7489MB Sys Usage: 534MB Demoted: 0MB fps: 33.5
-16:30:53:047 (00014740) > [Render] Quering NVAPI for GPU temperature
-16:30:53:047 (00014740) > [Render] Working set: 2582MB Page file: 13476MB Video Budget: 7089MB Video Usage: 5757MB Sys Budget: 7489MB Sys Usage: 534MB Demoted: 0MB fps: 32.7
-16:31:53:061 (00014740) > [Render] Quering NVAPI for GPU temperature
-16:31:53:061 (00014740) > [Render] Working set: 3035MB Page file: 13982MB Video Budget: 7080MB Video Usage: 6131MB Sys Budget: 7489MB Sys Usage: 534MB Demoted: 0MB fps: 32.4
-16:32:53:061 (00014740) > [Render] Quering NVAPI for GPU temperature
-16:32:53:061 (00014740) > [Render] Working set: 2958MB Page file: 13862MB Video Budget: 7123MB Video Usage: 6049MB Sys Budget: 7489MB Sys Usage: 542MB Demoted: 0MB fps: 33.2
-16:33:53:061 (00014740) > [Render] Quering NVAPI for GPU temperature
-16:33:53:061 (00014740) > [Render] Working set: 2572MB Page file: 13288MB Video Budget: 7123MB Video Usage: 5664MB Sys Budget: 7489MB Sys Usage: 542MB Demoted: 0MB fps: 35.0
-16:34:53:050 (00014740) > [Render] Quering NVAPI for GPU temperature
-16:34:53:050 (00014740) > [Render] Working set: 2448MB Page file: 13378MB Video Budget: 7123MB Video Usage: 5733MB Sys Budget: 7489MB Sys Usage: 542MB Demoted: 0MB fps: 34.6
-16:35:53:062 (00014740) > [Render] Quering NVAPI for GPU temperature
-16:35:53:062 (00014740) > [Render] Working set: 2298MB Page file: 13296MB Video Budget: 7123MB Video Usage: 5692MB Sys Budget: 7489MB Sys Usage: 542MB Demoted: 0MB fps: 33.5
-16:36:53:074 (00014740) > [Render] Quering NVAPI for GPU temperature
-16:36:53:074 (00014740) > [Render] Working set: 2369MB Page file: 13684MB Video Budget: 7123MB Video Usage: 5963MB Sys Budget: 7489MB Sys Usage: 542MB Demoted: 0MB fps: 32.7
-16:37:53:088 (00014740) > [Render] Quering NVAPI for GPU temperature
-16:37:53:088 (00014740) > [Render] Working set: 2294MB Page file: 13256MB Video Budget: 7112MB Video Usage: 5655MB Sys Budget: 7489MB Sys Usage: 542MB Demoted: 0MB fps: 35.3
-16:38:53:087 (00014740) > [Render] Quering NVAPI for GPU temperature
-16:38:53:087 (00014740) > [Render] Working set: 2341MB Page file: 13444MB Video Budget: 7123MB Video Usage: 5808MB Sys Budget: 7489MB Sys Usage: 542MB Demoted: 0MB fps: 33.0
-16:39:53:088 (00014740) > [Render] Quering NVAPI for GPU temperature
-16:39:53:088 (00014740) > [Render] Working set: 2528MB Page file: 13628MB Video Budget: 7091MB Video Usage: 5879MB Sys Budget: 7489MB Sys Usage: 542MB Demoted: 0MB fps: 33.3
-16:40:53:087 (00014740) > [Render] Quering NVAPI for GPU temperature
-16:40:53:087 (00014740) > [Render] Working set: 2469MB Page file: 13469MB Video Budget: 7112MB Video Usage: 5761MB Sys Budget: 7489MB Sys Usage: 606MB Demoted: 0MB fps: 34.5
-16:41:53:087 (00014740) > [Render] Quering NVAPI for GPU temperature
-16:41:53:087 (00014740) > [Render] Working set: 2258MB Page file: 13246MB Video Budget: 7123MB Video Usage: 5651MB Sys Budget: 7489MB Sys Usage: 542MB Demoted: 0MB fps: 35.2
-16:42:53:108 (00014740) > [Render] Quering NVAPI for GPU temperature
-16:42:53:108 (00014740) > [Render] Working set: 2233MB Page file: 13273MB Video Budget: 7123MB Video Usage: 5673MB Sys Budget: 7489MB Sys Usage: 542MB Demoted: 0MB fps: 35.2
-16:43:53:113 (00014740) > [Render] Quering NVAPI for GPU temperature
-16:43:53:113 (00014740) > [Render] Working set: 2236MB Page file: 13272MB Video Budget: 7123MB Video Usage: 5670MB Sys Budget: 7489MB Sys Usage: 542MB Demoted: 0MB fps: 34.9
-16:44:53:113 (00014740) > [Render] Quering NVAPI for GPU temperature
-16:44:53:113 (00014740) > [Render] Working set: 2221MB Page file: 13218MB Video Budget: 7123MB Video Usage: 5628MB Sys Budget: 7489MB Sys Usage: 542MB Demoted: 0MB fps: 36.6
-16:45:53:127 (00014740) > [Render] Quering NVAPI for GPU temperature
-16:45:53:127 (00014740) > [Render] Working set: 2218MB Page file: 13215MB Video Budget: 7123MB Video Usage: 5628MB Sys Budget: 7489MB Sys Usage: 542MB Demoted: 0MB fps: 35.7
-16:46:53:146 (00014740) > [Render] Quering NVAPI for GPU temperature
-16:46:53:146 (00014740) > [Render] Working set: 2218MB Page file: 13223MB Video Budget: 7123MB Video Usage: 5636MB Sys Budget: 7489MB Sys Usage: 542MB Demoted: 0MB fps: 35.6
-16:47:53:166 (00014740) > [Render] Quering NVAPI for GPU temperature
-16:47:53:166 (00014740) > [Render] Working set: 2122MB Page file: 13214MB Video Budget: 7112MB Video Usage: 5629MB Sys Budget: 7489MB Sys Usage: 542MB Demoted: 0MB fps: 35.6
-16:48:53:168 (00014740) > [Render] Quering NVAPI for GPU temperature
-16:48:53:168 (00014740) > [Render] Working set: 2123MB Page file: 13214MB Video Budget: 7112MB Video Usage: 5629MB Sys Budget: 7489MB Sys Usage: 542MB Demoted: 0MB fps: 36.8
-16:49:53:165 (00014740) > [Render] Quering NVAPI for GPU temperature
-16:49:53:165 (00014740) > [Render] Working set: 2191MB Page file: 13285MB Video Budget: 7119MB Video Usage: 5632MB Sys Budget: 7489MB Sys Usage: 606MB Demoted: 0MB fps: 37.0
-16:50:53:180 (00014740) > [Render] Quering NVAPI for GPU temperature
-16:50:53:180 (00014740) > [Render] Working set: 2194MB Page file: 13283MB Video Budget: 7123MB Video Usage: 5632MB Sys Budget: 7489MB Sys Usage: 542MB Demoted: 0MB fps: 37.3
-16:51:53:192 (00014740) > [Render] Quering NVAPI for GPU temperature
-16:51:53:192 (00014740) > [Render] Working set: 2118MB Page file: 13229MB Video Budget: 7123MB Video Usage: 5642MB Sys Budget: 7489MB Sys Usage: 542MB Demoted: 0MB fps: 34.2
-16:52:53:204 (00014740) > [Render] Quering NVAPI for GPU temperature
-16:52:53:205 (00014740) > [Render] Working set: 2074MB Page file: 13233MB Video Budget: 7112MB Video Usage: 5645MB Sys Budget: 7489MB Sys Usage: 542MB Demoted: 0MB fps: 36.5
-16:53:53:219 (00014740) > [Render] Quering NVAPI for GPU temperature
-16:53:53:219 (00014740) > [Render] Working set: 2076MB Page file: 13214MB Video Budget: 7123MB Video Usage: 5627MB Sys Budget: 7489MB Sys Usage: 542MB Demoted: 0MB fps: 36.0
-16:54:53:218 (00014740) > [Render] Quering NVAPI for GPU temperature
-16:54:53:219 (00014740) > [Render] Working set: 2099MB Page file: 13232MB Video Budget: 7123MB Video Usage: 5636MB Sys Budget: 7489MB Sys Usage: 542MB Demoted: 0MB fps: 35.1
-16:55:53:218 (00014740) > [Render] Quering NVAPI for GPU temperature
-16:55:53:218 (00014740) > [Render] Working set: 2109MB Page file: 13215MB Video Budget: 7112MB Video Usage: 5630MB Sys Budget: 7489MB Sys Usage: 542MB Demoted: 0MB fps: 37.2
-16:56:53:218 (00014740) > [Render] Quering NVAPI for GPU temperature
-16:56:53:218 (00014740) > [Render] Working set: 2104MB Page file: 13218MB Video Budget: 7123MB Video Usage: 5634MB Sys Budget: 7489MB Sys Usage: 542MB Demoted: 0MB fps: 37.4
-16:57:53:204 (00014740) > [Render] Quering NVAPI for GPU temperature
-16:57:53:204 (00014740) > [Render] Working set: 1959MB Page file: 13224MB Video Budget: 7123MB Video Usage: 5639MB Sys Budget: 7489MB Sys Usage: 542MB Demoted: 0MB fps: 34.7
-16:58:53:207 (00014740) > [Render] Quering NVAPI for GPU temperature
-16:58:53:207 (00014740) > [Render] Working set: 1986MB Page file: 13264MB Video Budget: 7112MB Video Usage: 5669MB Sys Budget: 7489MB Sys Usage: 542MB Demoted: 0MB fps: 34.5
-16:59:53:224 (00014740) > [Render] Quering NVAPI for GPU temperature
-16:59:53:224 (00014740) > [Render] Working set: 2054MB Page file: 13333MB Video Budget: 7119MB Video Usage: 5720MB Sys Budget: 7489MB Sys Usage: 542MB Demoted: 0MB fps: 36.7
-17:00:53:245 (00014740) > [Render] Quering NVAPI for GPU temperature
-17:00:53:245 (00014740) > [Render] Working set: 2117MB Page file: 13420MB Video Budget: 7089MB Video Usage: 5805MB Sys Budget: 7489MB Sys Usage: 542MB Demoted: 0MB fps: 36.2
-17:01:53:257 (00014740) > [Render] Quering NVAPI for GPU temperature
-17:01:53:258 (00014740) > [Render] Working set: 2057MB Page file: 13206MB Video Budget: 7091MB Video Usage: 5618MB Sys Budget: 7489MB Sys Usage: 542MB Demoted: 0MB fps: 37.4
-17:02:53:260 (00014740) > [Render] Quering NVAPI for GPU temperature
-17:02:53:260 (00014740) > [Render] Working set: 1827MB Page file: 13218MB Video Budget: 7112MB Video Usage: 5632MB Sys Budget: 7489MB Sys Usage: 542MB Demoted: 0MB fps: 34.9
-17:03:53:258 (00014740) > [Render] Quering NVAPI for GPU temperature
-17:03:53:258 (00014740) > [Render] Working set: 1763MB Page file: 13218MB Video Budget: 7112MB Video Usage: 5632MB Sys Budget: 7489MB Sys Usage: 542MB Demoted: 0MB fps: 37.4
-17:04:53:270 (00014740) > [Render] Quering NVAPI for GPU temperature
-17:04:53:270 (00014740) > [Render] Working set: 1769MB Page file: 13236MB Video Budget: 7123MB Video Usage: 5642MB Sys Budget: 7489MB Sys Usage: 542MB Demoted: 0MB fps: 36.9
-17:05:53:283 (00014740) > [Render] Quering NVAPI for GPU temperature
-17:05:53:284 (00014740) > [Render] Working set: 1766MB Page file: 13226MB Video Budget: 7112MB Video Usage: 5634MB Sys Budget: 7489MB Sys Usage: 542MB Demoted: 0MB fps: 35.7
-17:06:53:298 (00014740) > [Render] Quering NVAPI for GPU temperature
-17:06:53:299 (00014740) > [Render] Working set: 1771MB Page file: 13244MB Video Budget: 7123MB Video Usage: 5646MB Sys Budget: 7489MB Sys Usage: 542MB Demoted: 0MB fps: 36.7
-17:07:53:309 (00014740) > [Render] Quering NVAPI for GPU temperature
-17:07:53:309 (00014740) > [Render] Working set: 1715MB Page file: 13227MB Video Budget: 7112MB Video Usage: 5631MB Sys Budget: 7489MB Sys Usage: 542MB Demoted: 0MB fps: 34.9
-17:08:53:310 (00014740) > [Render] Quering NVAPI for GPU temperature
-17:08:53:310 (00014740) > [Render] Working set: 1782MB Page file: 13309MB Video Budget: 7123MB Video Usage: 5652MB Sys Budget: 7489MB Sys Usage: 606MB Demoted: 0MB fps: 36.6
-17:09:53:310 (00014740) > [Render] Quering NVAPI for GPU temperature
-17:09:53:310 (00014740) > [Render] Working set: 1785MB Page file: 13297MB Video Budget: 7119MB Video Usage: 5631MB Sys Budget: 7489MB Sys Usage: 606MB Demoted: 0MB fps: 37.5
-17:10:53:324 (00014740) > [Render] Quering NVAPI for GPU temperature
-17:10:53:324 (00014740) > [Render] Working set: 2439MB Page file: 13925MB Video Budget: 7112MB Video Usage: 6131MB Sys Budget: 7489MB Sys Usage: 542MB Demoted: 0MB fps: 33.7
-17:11:53:333 (00014740) > [Render] Quering NVAPI for GPU temperature
-17:11:53:333 (00014740) > [Render] Working set: 3166MB Page file: 14051MB Video Budget: 7123MB Video Usage: 6086MB Sys Budget: 7489MB Sys Usage: 566MB Demoted: 0MB fps: 30.5
-17:12:53:353 (00014740) > [Render] Quering NVAPI for GPU temperature
-17:12:53:353 (00014740) > [Render] Working set: 2680MB Page file: 13655MB Video Budget: 7112MB Video Usage: 5763MB Sys Budget: 7489MB Sys Usage: 542MB Demoted: 0MB fps: 32.7
-17:13:53:371 (00014740) > [Render] Quering NVAPI for GPU temperature
-17:13:53:371 (00014740) > [Render] Working set: 3110MB Page file: 14090MB Video Budget: 7112MB Video Usage: 6200MB Sys Budget: 7489MB Sys Usage: 558MB Demoted: 0MB fps: 31.4
-17:14:53:381 (00014740) > [Render] Quering NVAPI for GPU temperature
-17:14:53:381 (00014740) > [Render] Working set: 3752MB Page file: 13390MB Video Budget: 7112MB Video Usage: 5741MB Sys Budget: 7489MB Sys Usage: 550MB Demoted: 0MB fps: 31.3
-17:15:53:389 (00014740) > [Render] Quering NVAPI for GPU temperature
-17:15:53:389 (00014740) > [Render] Working set: 3929MB Page file: 13423MB Video Budget: 7112MB Video Usage: 5698MB Sys Budget: 7489MB Sys Usage: 558MB Demoted: 0MB fps: 31.5
-17:16:53:390 (00014740) > [Render] Quering NVAPI for GPU temperature
-17:16:53:390 (00014740) > [Render] Working set: 3923MB Page file: 13367MB Video Budget: 7112MB Video Usage: 5768MB Sys Budget: 7489MB Sys Usage: 542MB Demoted: 0MB fps: 31.5
-17:17:53:386 (00014740) > [Render] Quering NVAPI for GPU temperature
-17:17:53:386 (00014740) > [Render] Working set: 4057MB Page file: 13469MB Video Budget: 7112MB Video Usage: 5701MB Sys Budget: 7489MB Sys Usage: 550MB Demoted: 0MB fps: 31.8
-17:18:53:383 (00014740) > [Render] Quering NVAPI for GPU temperature
-17:18:53:383 (00014740) > [Render] Working set: 3807MB Page file: 13466MB Video Budget: 7112MB Video Usage: 5699MB Sys Budget: 7489MB Sys Usage: 558MB Demoted: 0MB fps: 31.3
-17:19:53:377 (00014740) > [Render] Quering NVAPI for GPU temperature
-17:19:53:378 (00014740) > [Render] Working set: 3504MB Page file: 13444MB Video Budget: 7114MB Video Usage: 5721MB Sys Budget: 7489MB Sys Usage: 558MB Demoted: 0MB fps: 31.9
-17:20:53:380 (00014740) > [Render] Quering NVAPI for GPU temperature
-17:20:53:380 (00014740) > [Render] Working set: 3295MB Page file: 13579MB Video Budget: 7112MB Video Usage: 5762MB Sys Budget: 7489MB Sys Usage: 558MB Demoted: 0MB fps: 31.3
-17:21:53:387 (00014740) > [Render] Quering NVAPI for GPU temperature
-17:21:53:387 (00014740) > [Render] Working set: 3373MB Page file: 13389MB Video Budget: 7123MB Video Usage: 5726MB Sys Budget: 7489MB Sys Usage: 558MB Demoted: 0MB fps: 31.3
-17:22:53:404 (00014740) > [Render] Quering NVAPI for GPU temperature
-17:22:53:404 (00014740) > [Render] Working set: 3711MB Page file: 13542MB Video Budget: 7123MB Video Usage: 5732MB Sys Budget: 7489MB Sys Usage: 558MB Demoted: 0MB fps: 32.2
-17:23:53:392 (00014740) > [Render] Quering NVAPI for GPU temperature
-17:23:53:392 (00014740) > [Render] Working set: 3806MB Page file: 13467MB Video Budget: 7112MB Video Usage: 5718MB Sys Budget: 7489MB Sys Usage: 566MB Demoted: 0MB fps: 31.1
-17:24:53:406 (00014740) > [Render] Quering NVAPI for GPU temperature
-17:24:53:406 (00014740) > [Render] Working set: 3501MB Page file: 12765MB Video Budget: 7274MB Video Usage: 5177MB Sys Budget: 7489MB Sys Usage: 558MB Demoted: 0MB fps: 33.0
-17:25:53:419 (00014740) > [Render] Quering NVAPI for GPU temperature
-17:25:53:419 (00014740) > [Render] Working set: 3329MB Page file: 13431MB Video Budget: 7121MB Video Usage: 5725MB Sys Budget: 7489MB Sys Usage: 558MB Demoted: 0MB fps: 32.8
-17:26:53:433 (00014740) > [Render] Quering NVAPI for GPU temperature
-17:26:53:433 (00014740) > [Render] Working set: 3401MB Page file: 13281MB Video Budget: 7112MB Video Usage: 5638MB Sys Budget: 7489MB Sys Usage: 558MB Demoted: 0MB fps: 32.0
-17:27:53:440 (00014740) > [Render] Quering NVAPI for GPU temperature
-17:27:53:440 (00014740) > [Render] Working set: 3498MB Page file: 13511MB Video Budget: 7112MB Video Usage: 5738MB Sys Budget: 7489MB Sys Usage: 558MB Demoted: 0MB fps: 31.5
-17:28:53:455 (00014740) > [Render] Quering NVAPI for GPU temperature
-17:28:53:455 (00014740) > [Render] Working set: 3818MB Page file: 13353MB Video Budget: 7123MB Video Usage: 5710MB Sys Budget: 7489MB Sys Usage: 558MB Demoted: 0MB fps: 30.7
-17:29:53:470 (00014740) > [Render] Quering NVAPI for GPU temperature
-17:29:53:470 (00014740) > [Render] Working set: 3819MB Page file: 13524MB Video Budget: 7090MB Video Usage: 5759MB Sys Budget: 7489MB Sys Usage: 558MB Demoted: 0MB fps: 31.6
-17:30:53:495 (00014740) > [Render] Quering NVAPI for GPU temperature
-17:30:53:495 (00014740) > [Render] Working set: 3633MB Page file: 13457MB Video Budget: 7089MB Video Usage: 5782MB Sys Budget: 7489MB Sys Usage: 558MB Demoted: 0MB fps: 31.4
-17:31:53:502 (00014740) > [Render] Quering NVAPI for GPU temperature
-17:31:53:502 (00014740) > [Render] Working set: 3432MB Page file: 13546MB Video Budget: 7091MB Video Usage: 5751MB Sys Budget: 7489MB Sys Usage: 622MB Demoted: 0MB fps: 32.5
-17:32:53:509 (00014740) > [Render] Quering NVAPI for GPU temperature
-17:32:53:509 (00014740) > [Render] Working set: 3420MB Page file: 13425MB Video Budget: 7101MB Video Usage: 5732MB Sys Budget: 7489MB Sys Usage: 558MB Demoted: 0MB fps: 33.2
-17:33:53:522 (00014740) > [Render] Quering NVAPI for GPU temperature
-17:33:53:522 (00014740) > [Render] Working set: 3313MB Page file: 13041MB Video Budget: 7123MB Video Usage: 5384MB Sys Budget: 7489MB Sys Usage: 558MB Demoted: 0MB fps: 34.4
-17:34:53:524 (00014740) > [Render] Quering NVAPI for GPU temperature
-17:34:53:524 (00014740) > [Render] Working set: 3270MB Page file: 12887MB Video Budget: 7274MB Video Usage: 5263MB Sys Budget: 7489MB Sys Usage: 558MB Demoted: 0MB fps: 34.3
-17:35:53:532 (00014740) > [Render] Quering NVAPI for GPU temperature
-17:35:53:532 (00014740) > [Render] Working set: 3354MB Page file: 13479MB Video Budget: 7123MB Video Usage: 5782MB Sys Budget: 7489MB Sys Usage: 622MB Demoted: 0MB fps: 34.1
-17:36:53:536 (00014740) > [Render] Quering NVAPI for GPU temperature
-17:36:53:536 (00014740) > [Render] Working set: 3497MB Page file: 13183MB Video Budget: 7112MB Video Usage: 5445MB Sys Budget: 7489MB Sys Usage: 559MB Demoted: 0MB fps: 36.4
-17:37:53:545 (00014740) > [Render] Quering NVAPI for GPU temperature
-17:37:53:546 (00014740) > [Render] Working set: 3493MB Page file: 13576MB Video Budget: 7123MB Video Usage: 5695MB Sys Budget: 7489MB Sys Usage: 624MB Demoted: 0MB fps: 35.8
-17:38:53:535 (00014740) > [Render] Quering NVAPI for GPU temperature
-17:38:53:535 (00014740) > [Render] Working set: 3792MB Page file: 13628MB Video Budget: 7112MB Video Usage: 5660MB Sys Budget: 7489MB Sys Usage: 560MB Demoted: 0MB fps: 33.0
-17:39:53:552 (00014740) > [Render] Quering NVAPI for GPU temperature
-17:39:53:552 (00014740) > [Render] Working set: 3767MB Page file: 13473MB Video Budget: 7101MB Video Usage: 5618MB Sys Budget: 7489MB Sys Usage: 560MB Demoted: 0MB fps: 30.8
-17:40:53:559 (00014740) > [Render] Quering NVAPI for GPU temperature
-17:40:53:559 (00014740) > [Render] Working set: 3730MB Page file: 13448MB Video Budget: 7112MB Video Usage: 5598MB Sys Budget: 7489MB Sys Usage: 560MB Demoted: 0MB fps: 32.3
-17:41:53:562 (00014740) > [Render] Quering NVAPI for GPU temperature
-17:41:53:562 (00014740) > [Render] Working set: 3739MB Page file: 13425MB Video Budget: 7123MB Video Usage: 5579MB Sys Budget: 7489MB Sys Usage: 561MB Demoted: 0MB fps: 32.8
-17:42:53:574 (00014740) > [Render] Quering NVAPI for GPU temperature
-17:42:53:574 (00014740) > [Render] Working set: 3587MB Page file: 13346MB Video Budget: 7123MB Video Usage: 5504MB Sys Budget: 7489MB Sys Usage: 561MB Demoted: 0MB fps: 32.1
-17:43:53:564 (00014740) > [Render] Quering NVAPI for GPU temperature
-17:43:53:564 (00014740) > [Render] Working set: 3445MB Page file: 13371MB Video Budget: 7119MB Video Usage: 5531MB Sys Budget: 7489MB Sys Usage: 561MB Demoted: 0MB fps: 31.5
-17:44:53:571 (00014740) > [Render] Quering NVAPI for GPU temperature
-17:44:53:571 (00014740) > [Render] Working set: 3462MB Page file: 13375MB Video Budget: 7123MB Video Usage: 5521MB Sys Budget: 7489MB Sys Usage: 561MB Demoted: 0MB fps: 36.7
-17:45:40:589 (00017784) > [NxApp] Destroying
-17:45:40:640 (00017784) > [NxFfx] Destroyed the FSR3 context.
-17:45:40:640 (00017784) > [NxFfx] Released the frame interpolation swapchain.
-17:45:40:640 (00017784) > [DXGI] Destroyed swapchain.
-17:45:40:640 (00017784) > [SwapChain] Destroyed.
-17:45:40:640 (00017784) > [SwapChain] Released.
-17:45:40:691 (00017784) > [Render] Unloading NVAPI
-17:45:40:691 (00017784) > [Render] Done unloading NVAPI
-17:45:40:694 (00017784) > [DXGI] Destroyed swapchain.
-17:45:40:694 (00017784) > [DXGI] Released.
